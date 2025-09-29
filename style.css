@@ -48,12 +48,18 @@ div[data-testid="stPlotlyChart"], div[data-testid="stDataFrame"] {
     color: #2E2E2E;
 }
 
-/* --- FIX for Multiselect Readability --- */
+/* --- FIX for Multiselect Readability (Updated & More Specific) --- */
 
-/* Target the selected items ("tags") in the multiselect widget */
-div[data-baseweb="tag"] {
-    /* Change the text color inside the tag to our dark brand color for high contrast */
+/* This selector specifically targets the text inside the selected "pills" */
+[data-testid="stMultiSelect"] [data-baseweb="tag"] span {
+    /* Change text color to our dark brand color for high contrast */
     color: #2E2E2E !important;
-    /* Make the font slightly bolder to improve readability further */
-    font-weight: 600;
+    /* Make font slightly bolder to improve readability */
+    font-weight: 600 !important;
+}
+
+/* This selector targets the small 'x' close icon inside the pills */
+[data-testid="stMultiSelect"] [data-baseweb="tag"] svg {
+    /* Change the icon color to our dark brand color to match the text */
+    fill: #2E2E2E !important;
 }
