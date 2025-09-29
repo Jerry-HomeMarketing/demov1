@@ -12,6 +12,15 @@ st.set_page_config(
     layout="wide",
 )
 
+# --- NEW: FUNCTION TO LOAD CUSTOM CSS ---
+def load_css(file_name):
+    """A function to load a CSS file from the local directory."""
+    with open(file_name) as f:
+        st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
+
+# Load the custom CSS
+load_css("style.css")
+
 # --- DATA LOADING AND PREPARATION ---
 @st.cache_data
 def load_data(file_path):
@@ -29,6 +38,8 @@ except FileNotFoundError:
 
 
 # --- SIDEBAR FOR FILTERS ---
+# --- NEW: ADD YOUR LOGO TO THE SIDEBAR ---
+st.sidebar.image("logo.png", use_column_width=True)
 st.sidebar.header("Dashboard Filters")
 st.sidebar.markdown("""
 This is your control panel. Filter the entire dashboard by date, product category, or marketing source.
@@ -103,6 +114,9 @@ with col4:
 st.markdown("---")
 
 # --- CHARTS ---
+# --- THEME UPDATE: Change Plotly template for dark theme compatibility ---
+chart_template = "plotly_dark"
+
 col_left, col_right = st.columns((7, 5))
 
 with col_left:
@@ -113,24 +127,24 @@ with col_left:
         x=revenue_over_time.index,
         y='TotalRevenue',
         labels={'TotalRevenue': 'Monthly Revenue (USD)'},
-        template="plotly_white",
+        template=chart_template, # Use dark template
         markers=True
     )
-    fig_time.update_layout(height=400)
+    fig_time.update_layout(height=400, paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='rgba(0,0,0,0)')
     st.plotly_chart(fig_time, use_container_width=True)
 
 with col_right:
     st.subheader("Sales by Product Category")
-    sales_by_category = filtered_df.groupby('Category')['TotalRevenue'].sum().sort_values(ascending=False)
+    sales_by_category = filtered_df.groupby('Category')['TotalRevenue'].sum().sort_values(ascending=True) # Changed to ascending for horizontal bar chart
     fig_cat = px.bar(
         sales_by_category,
         orientation='h',
         labels={'value': 'Total Revenue (USD)', 'index': 'Category'},
-        template="plotly_white",
+        template=chart_template, # Use dark template
         color=sales_by_category.values,
         color_continuous_scale=px.colors.sequential.Teal
     )
-    fig_cat.update_layout(height=400, coloraxis_showscale=False)
+    fig_cat.update_layout(height=400, coloraxis_showscale=False, paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='rgba(0,0,0,0)')
     st.plotly_chart(fig_cat, use_container_width=True)
 
 # --- GEOGRAPHICAL AND DETAILED ANALYSIS ---
@@ -143,12 +157,13 @@ fig_map = px.choropleth(
     locationmode='USA-states',
     color='TotalRevenue',
     scope='usa',
-    color_continuous_scale="Viridis_r",
+    color_continuous_scale="Teal", # Changed for better contrast
     labels={'TotalRevenue': 'Total Revenue'}
 )
 fig_map.update_layout(
     geo=dict(bgcolor='rgba(0,0,0,0)'),
-    height=500
+    height=500,
+    paper_bgcolor='rgba(0,0,0,0)',
 )
 st.plotly_chart(fig_map, use_container_width=True)
 
