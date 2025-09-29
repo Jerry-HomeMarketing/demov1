@@ -1,4 +1,4 @@
-# app.py (New Dark Theme Version)
+# app.py (Corrected Dark Theme Version)
 
 import streamlit as st
 import pandas as pd
@@ -40,10 +40,12 @@ with st.sidebar:
     start_date, end_date = st.date_input("Select Date Range", [min_date, max_date], min_value=min_date, max_value=max_date)
     
     all_categories = df['Category'].unique()
-    selected_categories = st.multoselect("Select Product Categories", all_categories, default=all_categories)
+    # TYPO FIXED HERE
+    selected_categories = st.multiselect("Select Product Categories", all_categories, default=all_categories)
     
     all_sources = df['MarketingSource'].unique()
-    selected_sources = st.multoselect("Select Marketing Source", all_sources, default=all_sources)
+    # TYPO FIXED HERE
+    selected_sources = st.multiselect("Select Marketing Source", all_sources, default=all_sources)
 
 # Apply filters
 start_date_dt = pd.to_datetime(start_date)
