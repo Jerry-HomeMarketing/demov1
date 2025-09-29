@@ -1,0 +1,49 @@
+/* style.css */
+
+/* --- GENERAL STYLING & BORDERS --- */
+
+/* Add rounded corners to the main app container and sidebar */
+div[data-testid="stAppViewContainer"], div[data-testid="stSidebar"] {
+    border-radius: 15px;
+}
+
+/* --- WIDGET STYLING --- */
+
+/* Add rounded corners and a slight border to all widgets */
+div[data-testid*="stWidget"] > div {
+    border-radius: 0.5rem;
+}
+
+/* Style for metric cards to give them a modern, "card" look */
+div[data-testid="stMetric"] {
+    background-color: #333333; /* A slightly lighter shade than the main background */
+    border: 1px solid #4A4A4A; /* Matches the secondary background for a subtle outline */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+}
+
+/* --- CHART & DATAFRAME STYLING --- */
+
+/* Add rounded corners to Plotly charts and dataframes */
+div[data-testid="stPlotlyChart"], div[data-testid="stDataFrame"] {
+    border-radius: 10px;
+    overflow: hidden; /* Ensures the background of the chart respects the border radius */
+}
+
+/* --- BUTTONS --- */
+
+/* Custom styling for buttons for a more integrated feel */
+.stButton>button {
+    border: 2px solid #F5F3E9;
+    background-color: transparent;
+    color: #F5F3E9;
+    border-radius: 0.5rem;
+    padding: 10px 20px;
+}
+
+.stButton>button:hover {
+    border-color: #FFFFFF;
+    background-color: #F5F3E9;
+    color: #2E2E2E;
+}
