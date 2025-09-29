@@ -169,4 +169,4 @@ st.dataframe(
 )
 
 st.sidebar.markdown("---")
-st.sidebar.info("This is a demo dashboard built by [Your Company Name]. Contact us to build a custom AI dashboard for your business!")
+st.sidebar.info("This is a demo dashboard built by Home Marketing & Consulting. Contact us to build a custom AI dashboard for your business!")
