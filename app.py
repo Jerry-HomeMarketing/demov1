@@ -38,7 +38,6 @@ except FileNotFoundError:
 
 
 # --- SIDEBAR FOR FILTERS ---
-# The logo line has been removed from here.
 st.sidebar.header("Dashboard Filters")
 st.sidebar.markdown("""
 This is your control panel. Filter the entire dashboard by date, product category, or marketing source.
@@ -56,20 +55,23 @@ start_date, end_date = st.sidebar.date_input(
 )
 
 # Category Multi-select
-all_categories = df['Category'].unique()
-selected_categories = st.sidebar.multoselect(
+# FIX: Convert NumPy array from .unique() to a Python list
+all_categories = list(df['Category'].unique())
+selected_categories = st.sidebar.multiselect(
     "Select Product Categories",
     options=all_categories,
     default=all_categories
 )
 
 # Marketing Source Multi-select
-all_sources = df['MarketingSource'].unique()
-selected_sources = st.sidebar.multoselect(
+# FIX: Convert NumPy array from .unique() to a Python list
+all_sources = list(df['MarketingSource'].unique())
+selected_sources = st.sidebar.multiselect(
     "Select Marketing Source",
     options=all_sources,
     default=all_sources
 )
+
 
 # Apply filters to the dataframe
 start_date = pd.to_datetime(start_date)
