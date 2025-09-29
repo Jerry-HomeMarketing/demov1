@@ -1,0 +1,64 @@
+/* style.css */
+
+/* Main background color */
+body {
+    background-color: #ffffe9; /* Your light brand color */
+}
+
+/* Change the sidebar style */
+[data-testid="stSidebar"] {
+    background-color: #2f2e48; /* Your dark brand color */
+}
+
+/* General app styling */
+.main .block-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+/* --- KPI Card Styling --- */
+.kpi-card {
+    background-color: #FFFFFF;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.05);
+    border: 1px solid #E0E0E0;
+    color: #2f2e48; /* Dark text on white card */
+    text-align: center;
+}
+
+.kpi-card h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: #2f2e48;
+}
+
+.kpi-card p {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin: 0;
+}
+
+/* --- Chart Card Styling --- */
+.chart-card {
+    background-color: #FFFFFF;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.05);
+    border: 1px solid #E0E0E0;
+}
+
+/* Hide the default Streamlit header */
+h1 {
+    font-size: 2.5rem;
+    color: #2f2e48;
+}
+
+/* Hide the "Made with Streamlit" footer */
+footer {
+    visibility: hidden;
+}
+header {
+    visibility: hidden;
+}
