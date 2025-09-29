@@ -47,3 +47,13 @@ div[data-testid="stPlotlyChart"], div[data-testid="stDataFrame"] {
     background-color: #F5F3E9;
     color: #2E2E2E;
 }
+
+/* --- FIX for Multiselect Readability --- */
+
+/* Target the selected items ("tags") in the multiselect widget */
+div[data-baseweb="tag"] {
+    /* Change the text color inside the tag to our dark brand color for high contrast */
+    color: #2E2E2E !important;
+    /* Make the font slightly bolder to improve readability further */
+    font-weight: 600;
+}
