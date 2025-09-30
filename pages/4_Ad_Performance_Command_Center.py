@@ -14,7 +14,7 @@ def load_css(file_name):
 load_css("style.css")
 
 @st.cache_data
-def load__data(file_path):
+def load_data(file_path):
     data = pd.read_csv(file_path)
     data['Date'] = pd.to_datetime(data['Date'])
     data['ROAS'] = (data['Revenue'] / data['Spend']).replace([float('inf'), -float('inf')], 0).fillna(0)
@@ -51,15 +51,12 @@ platform_summary['AvgROAS'] = (platform_summary['TotalRevenue'] / platform_summa
 platform_summary['AvgCTR'] = (platform_summary['TotalClicks'] / platform_summary['TotalImpressions']).fillna(0)
 platform_summary['AvgCPC'] = (platform_summary['TotalSpend'] / platform_summary['TotalClicks']).fillna(0)
 platform_summary['AvgConvRate'] = (platform_summary['TotalConversions'] / platform_summary['TotalClicks']).fillna(0)
-
 for kpi in ['AvgROAS', 'AvgCTR', 'AvgConvRate', 'AvgCPC']:
     min_val, max_val = platform_summary[kpi].min(), platform_summary[kpi].max()
     if (max_val - min_val) == 0: platform_summary[f'{kpi}_norm'] = 0.5; continue
     if kpi == 'AvgCPC': platform_summary[f'{kpi}_norm'] = 1 - ((platform_summary[kpi] - min_val) / (max_val - min_val))
     else: platform_summary[f'{kpi}_norm'] = (platform_summary[kpi] - min_val) / (max_val - min_val)
-
 platform_summary['PerformanceGrade'] = ((platform_summary['AvgROAS_norm'] * (weight_roas/total_weight)) + (platform_summary['AvgCTR_norm'] * (weight_ctr/total_weight)) + (platform_summary['AvgCPC_norm'] * (weight_cpc/total_weight)) + (platform_summary['AvgConvRate_norm'] * (weight_conv_rate/total_weight))) * 100
-
 col1, col2 = st.columns((4, 6))
 with col1:
     ranked_platforms = platform_summary[['Platform', 'PerformanceGrade', 'AvgROAS', 'AvgCPC']].sort_values('PerformanceGrade', ascending=False)
