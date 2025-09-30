@@ -40,7 +40,7 @@ except FileNotFoundError:
 
 
 # --- MAIN DASHBOARD LAYOUT ---
-st.title("🔮 The Customer Crystal Ball")
+st.title("🔮 Customer Intelligence")
 st.markdown("### Predictive Customer Intelligence")
 st.markdown("""
 This dashboard provides a proactive approach to customer relationship management.
