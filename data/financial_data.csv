@@ -1,0 +1,241 @@
+Date,Type,Category,Amount
+2023-01-01,Income,Product A Sales,23130.08
+2023-01-01,Income,Product B Sales,14102.28
+2023-01-01,Income,Consulting Services,9076.48
+2023-01-01,Income,Maintenance Contracts,5057.36
+2023-01-01,Expense,Salaries,17913.39
+2023-01-01,Expense,Rent,5094.21
+2023-01-01,Expense,Marketing,3393.58
+2023-01-01,Expense,Software & Subscriptions,1462.15
+2023-01-01,Expense,Utilities,813.52
+2023-01-01,Expense,Office Supplies,301.88
+2023-02-01,Income,Product A Sales,23672.25
+2023-02-01,Income,Product B Sales,15726.4
+2023-02-01,Income,Consulting Services,9748.47
+2023-02-01,Income,Maintenance Contracts,5128.32
+2023-02-01,Expense,Salaries,18068.78
+2023-02-01,Expense,Rent,5001.3
+2023-02-01,Expense,Marketing,3598.78
+2023-02-01,Expense,Software & Subscriptions,1447.56
+2023-02-01,Expense,Utilities,770.12
+2023-02-01,Expense,Office Supplies,294.14
+2023-03-01,Income,Product A Sales,24472.78
+2023-03-01,Income,Product B Sales,15453.69
+2023-03-01,Income,Consulting Services,11048.5
+2023-03-01,Income,Maintenance Contracts,5290.33
+2023-03-01,Expense,Salaries,18247.91
+2023-03-01,Expense,Rent,4850.8
+2023-03-01,Expense,Marketing,3504.94
+2023-03-01,Expense,Software & Subscriptions,1430.48
+2023-03-01,Expense,Utilities,789.9
+2023-03-01,Expense,Office Supplies,292.23
+2023-04-01,Income,Product A Sales,27493.37
+2023-04-01,Income,Product B Sales,15285.35
+2023-04-01,Income,Consulting Services,9923.05
+2023-04-01,Income,Maintenance Contracts,4903.62
+2023-04-01,Expense,Salaries,17743.14
+2023-04-01,Expense,Rent,5177.32
+2023-04-01,Expense,Marketing,3607.24
+2023-04-01,Expense,Software & Subscriptions,1477.88
+2023-04-01,Expense,Utilities,811.92
+2023-04-01,Expense,Office Supplies,308.39
+2023-05-01,Income,Product A Sales,26359.5
+2023-05-01,Income,Product B Sales,15995.85
+2023-05-01,Income,Consulting Services,9665.67
+2023-05-01,Income,Maintenance Contracts,5282.03
+2023-05-01,Expense,Salaries,18319.04
+2023-05-01,Expense,Rent,5046.45
+2023-05-01,Expense,Marketing,3422.31
+2023-05-01,Expense,Software & Subscriptions,1447.4
+2023-05-01,Expense,Utilities,809.97
+2023-05-01,Expense,Office Supplies,289.24
+2023-06-01,Income,Product A Sales,28574.55
+2023-06-01,Income,Product B Sales,16890.35
+2023-06-01,Income,Consulting Services,11282.58
+2023-06-01,Income,Maintenance Contracts,5107.0
+2023-06-01,Expense,Salaries,18742.54
+2023-06-01,Expense,Rent,4802.99
+2023-06-01,Expense,Marketing,3326.47
+2023-06-01,Expense,Software & Subscriptions,1431.87
+2023-06-01,Expense,Utilities,827.15
+2023-06-01,Expense,Office Supplies,290.31
+2023-07-01,Income,Product A Sales,27431.49
+2023-07-01,Income,Product B Sales,15932.07
+2023-07-01,Income,Consulting Services,10327.01
+2023-07-01,Income,Maintenance Contracts,4873.21
+2023-07-01,Expense,Salaries,18603.32
+2023-07-01,Expense,Rent,5136.37
+2023-07-01,Expense,Marketing,3371.04
+2023-07-01,Expense,Software & Subscriptions,1493.35
+2023-07-01,Expense,Utilities,822.2
+2023-07-01,Expense,Office Supplies,290.32
+2023-08-01,Income,Product A Sales,25846.81
+2023-08-01,Income,Product B Sales,17250.61
+2023-08-01,Income,Consulting Services,10753.97
+2023-08-01,Income,Maintenance Contracts,5315.0
+2023-08-01,Expense,Salaries,18410.06
+2023-08-01,Expense,Rent,5237.36
+2023-08-01,Expense,Marketing,3386.53
+2023-08-01,Expense,Software & Subscriptions,1487.99
+2023-08-01,Expense,Utilities,794.03
+2023-08-01,Expense,Office Supplies,309.06
+2023-09-01,Income,Product A Sales,27459.83
+2023-09-01,Income,Product B Sales,16696.43
+2023-09-01,Income,Consulting Services,9801.12
+2023-09-01,Income,Maintenance Contracts,4941.79
+2023-09-01,Expense,Salaries,17254.28
+2023-09-01,Expense,Rent,4828.11
+2023-09-01,Expense,Marketing,3581.14
+2023-09-01,Expense,Software & Subscriptions,1425.32
+2023-09-01,Expense,Utilities,839.78
+2023-09-01,Expense,Office Supplies,305.74
+2023-10-01,Income,Product A Sales,25141.57
+2023-10-01,Income,Product B Sales,15580.22
+2023-10-01,Income,Consulting Services,11144.1
+2023-10-01,Income,Maintenance Contracts,5102.01
+2023-10-01,Expense,Salaries,17972.13
+2023-10-01,Expense,Rent,5227.57
+2023-10-01,Expense,Marketing,3499.33
+2023-10-01,Expense,Software & Subscriptions,1531.01
+2023-10-01,Expense,Utilities,775.66
+2023-10-01,Expense,Office Supplies,296.29
+2023-11-01,Income,Product A Sales,29381.43
+2023-11-01,Income,Product B Sales,17411.66
+2023-11-01,Income,Consulting Services,10125.74
+2023-11-01,Income,Maintenance Contracts,5011.48
+2023-11-01,Expense,Salaries,18297.03
+2023-11-01,Expense,Rent,4886.76
+2023-11-01,Expense,Marketing,3641.46
+2023-11-01,Expense,Software & Subscriptions,1435.66
+2023-11-01,Expense,Utilities,793.37
+2023-11-01,Expense,Office Supplies,304.13
+2023-12-01,Income,Product A Sales,26727.99
+2023-12-01,Income,Product B Sales,17201.67
+2023-12-01,Income,Consulting Services,10721.8
+2023-12-01,Income,Maintenance Contracts,5505.87
+2023-12-01,Expense,Salaries,18109.57
+2023-12-01,Expense,Rent,5046.15
+2023-12-01,Expense,Marketing,3619.49
+2023-12-01,Expense,Software & Subscriptions,1495.29
+2023-12-01,Expense,Utilities,838.93
+2023-12-01,Expense,Office Supplies,304.51
+2024-01-01,Income,Product A Sales,27457.46
+2024-01-01,Income,Product B Sales,16480.11
+2024-01-01,Income,Consulting Services,10672.78
+2024-01-01,Income,Maintenance Contracts,5625.53
+2024-01-01,Expense,Salaries,18586.58
+2024-01-01,Expense,Rent,5042.27
+2024-01-01,Expense,Marketing,3420.48
+2024-01-01,Expense,Software & Subscriptions,1574.48
+2024-01-01,Expense,Utilities,799.5
+2024-01-01,Expense,Office Supplies,289.14
+2024-02-01,Income,Product A Sales,30148.78
+2024-02-01,Income,Product B Sales,16858.47
+2024-02-01,Income,Consulting Services,11345.23
+2024-02-01,Income,Maintenance Contracts,5126.14
+2024-02-01,Expense,Salaries,17461.04
+2024-02-01,Expense,Rent,4839.81
+2024-02-01,Expense,Marketing,3662.41
+2024-02-01,Expense,Software & Subscriptions,5711.83
+2024-02-01,Expense,Utilities,805.97
+2024-02-01,Expense,Office Supplies,298.8
+2024-03-01,Income,Product A Sales,28319.83
+2024-03-01,Income,Product B Sales,16653.38
+2024-03-01,Income,Consulting Services,10686.82
+2024-03-01,Income,Maintenance Contracts,5204.42
+2024-03-01,Expense,Salaries,17168.32
+2024-03-01,Expense,Rent,4772.03
+2024-03-01,Expense,Marketing,3389.62
+2024-03-01,Expense,Software & Subscriptions,1554.27
+2024-03-01,Expense,Utilities,826.13
+2024-03-01,Expense,Office Supplies,314.11
+2024-04-01,Income,Product A Sales,31349.29
+2024-04-01,Income,Product B Sales,16628.37
+2024-04-01,Income,Consulting Services,11789.08
+2024-04-01,Income,Maintenance Contracts,6182.14
+2024-04-01,Expense,Salaries,18631.54
+2024-04-01,Expense,Rent,5061.95
+2024-04-01,Expense,Marketing,3376.72
+2024-04-01,Expense,Software & Subscriptions,1486.24
+2024-04-01,Expense,Utilities,835.44
+2024-04-01,Expense,Office Supplies,286.97
+2024-05-01,Income,Product A Sales,27377.07
+2024-05-01,Income,Product B Sales,16720.6
+2024-05-01,Income,Consulting Services,10628.91
+2024-05-01,Income,Maintenance Contracts,6026.59
+2024-05-01,Expense,Salaries,18305.58
+2024-05-01,Expense,Rent,4969.62
+2024-05-01,Expense,Marketing,3618.94
+2024-05-01,Expense,Software & Subscriptions,1459.35
+2024-05-01,Expense,Utilities,827.92
+2024-05-01,Expense,Office Supplies,287.87
+2024-06-01,Income,Product A Sales,28212.87
+2024-06-01,Income,Product B Sales,16444.35
+2024-06-01,Income,Consulting Services,12173.44
+2024-06-01,Income,Maintenance Contracts,6228.16
+2024-06-01,Expense,Salaries,17525.05
+2024-06-01,Expense,Rent,4986.41
+2024-06-01,Expense,Marketing,3481.31
+2024-06-01,Expense,Software & Subscriptions,1568.25
+2024-06-01,Expense,Utilities,799.45
+2024-06-01,Expense,Office Supplies,296.06
+2024-07-01,Income,Product A Sales,30517.36
+2024-07-01,Income,Product B Sales,18439.39
+2024-07-01,Income,Consulting Services,10903.43
+2024-07-01,Income,Maintenance Contracts,6070.35
+2024-07-01,Expense,Salaries,17287.77
+2024-07-01,Expense,Rent,5159.07
+2024-07-01,Expense,Marketing,12596.59
+2024-07-01,Expense,Software & Subscriptions,1492.92
+2024-07-01,Expense,Utilities,774.12
+2024-07-01,Expense,Office Supplies,303.15
+2024-08-01,Income,Product A Sales,32341.56
+2024-08-01,Income,Product B Sales,18812.35
+2024-08-01,Income,Consulting Services,11849.3
+2024-08-01,Income,Maintenance Contracts,5873.12
+2024-08-01,Expense,Salaries,18269.99
+2024-08-01,Expense,Rent,4933.92
+2024-08-01,Expense,Marketing,3514.52
+2024-08-01,Expense,Software & Subscriptions,1555.6
+2024-08-01,Expense,Utilities,766.92
+2024-08-01,Expense,Office Supplies,294.06
+2024-09-01,Income,Product A Sales,29871.57
+2024-09-01,Income,Product B Sales,16662.33
+2024-09-01,Income,Consulting Services,12106.47
+2024-09-01,Income,Maintenance Contracts,5980.13
+2024-09-01,Expense,Salaries,18664.14
+2024-09-01,Expense,Rent,4998.09
+2024-09-01,Expense,Marketing,3607.23
+2024-09-01,Expense,Software & Subscriptions,1562.17
+2024-09-01,Expense,Utilities,761.41
+2024-09-01,Expense,Office Supplies,306.2
+2024-10-01,Income,Product A Sales,30951.26
+2024-10-01,Income,Product B Sales,17809.61
+2024-10-01,Income,Consulting Services,12517.03
+2024-10-01,Income,Maintenance Contracts,6132.24
+2024-10-01,Expense,Salaries,17333.04
+2024-10-01,Expense,Rent,4990.19
+2024-10-01,Expense,Marketing,3351.67
+2024-10-01,Expense,Software & Subscriptions,1429.84
+2024-10-01,Expense,Utilities,786.76
+2024-10-01,Expense,Office Supplies,296.16
+2024-11-01,Income,Product A Sales,33466.32
+2024-11-01,Income,Product B Sales,19101.24
+2024-11-01,Income,Consulting Services,11939.38
+2024-11-01,Income,Maintenance Contracts,6294.26
+2024-11-01,Expense,Salaries,17520.67
+2024-11-01,Expense,Rent,5004.94
+2024-11-01,Expense,Marketing,3329.67
+2024-11-01,Expense,Software & Subscriptions,1467.16
+2024-11-01,Expense,Utilities,825.77
+2024-11-01,Expense,Office Supplies,314.41
+2024-12-01,Income,Product A Sales,28286.57
+2024-12-01,Income,Product B Sales,17197.24
+2024-12-01,Income,Consulting Services,11300.45
+2024-12-01,Income,Maintenance Contracts,6649.62
+2024-12-01,Expense,Salaries,18513.99
+2024-12-01,Expense,Rent,4905.87
+2024-12-01,Expense,Marketing,3510.09
+2024-12-01,Expense,Software & Subscriptions,1564.09
+2024-12-01,Expense,Utilities,832.3
+2024-12-01,Expense,Office Supplies,295.79
