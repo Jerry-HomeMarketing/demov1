@@ -1,0 +1,1081 @@
+Date,Platform,Campaign,CreativeType,CreativeName,Impressions,Clicks,Spend,Conversions,Revenue
+2024-01-01,Google Ads,Brand Awareness,Image,Product Showcase A.jpg,9280,543,1155.29,24,2425.9
+2024-01-01,Google Ads,Lead Generation,Text,"""Free Demo"" Ad",18275,465,1598.33,16,1862.97
+2024-01-01,Google Ads,Website Traffic,Image,Lifestyle B.png,12719,276,463.76,5,774.57
+2024-01-01,Google Ads,Sales Conversion,Image,Infographic C.jpg,10153,506,1070.5,20,2329.11
+2024-01-01,Meta Ads,Brand Awareness,Video,Explainer Animation.mov,5611,283,422.89,8,1056.45
+2024-01-01,Meta Ads,Lead Generation,Text,"""Case Study"" Ad",19691,948,1501.37,20,2972.29
+2024-01-01,Meta Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",16440,455,403.32,11,2222.63
+2024-01-01,Meta Ads,Sales Conversion,Video,Explainer Animation.mov,15592,668,1037.27,13,3809.17
+2024-01-01,LinkedIn Ads,Brand Awareness,Text,"""Free Demo"" Ad",11360,372,2059.42,4,691.43
+2024-01-01,LinkedIn Ads,Lead Generation,Image,Lifestyle B.png,10943,464,2708.96,4,289.97
+2024-01-01,LinkedIn Ads,Website Traffic,Image,Lifestyle B.png,6795,324,1896.33,5,1123.06
+2024-01-01,LinkedIn Ads,Sales Conversion,Video,Explainer Animation.mov,11690,582,3299.82,11,1161.09
+2024-01-02,Google Ads,Brand Awareness,Video,Behind the Scenes.mp4,6094,70,120.88,1,131.6
+2024-01-02,Google Ads,Lead Generation,Image,Product Showcase A.jpg,12151,227,689.04,10,1296.46
+2024-01-02,Google Ads,Website Traffic,Video,Testimonial Reel.mp4,14995,275,940.35,12,871.5
+2024-01-02,Google Ads,Sales Conversion,Image,Lifestyle B.png,11430,157,555.94,6,1247.68
+2024-01-02,Meta Ads,Brand Awareness,Text,"""Case Study"" Ad",6913,397,571.95,7,451.59
+2024-01-02,Meta Ads,Lead Generation,Image,Lifestyle B.png,9167,500,680.34,15,4045.93
+2024-01-02,Meta Ads,Website Traffic,Video,Behind the Scenes.mp4,8371,370,626.37,10,2175.32
+2024-01-02,Meta Ads,Sales Conversion,Video,Behind the Scenes.mp4,9658,376,590.78,14,1158.12
+2024-01-02,LinkedIn Ads,Brand Awareness,Text,"""Free Demo"" Ad",18574,203,1187.47,1,244.63
+2024-01-02,LinkedIn Ads,Lead Generation,Image,Lifestyle B.png,14367,809,4883.3,15,3127.48
+2024-01-02,LinkedIn Ads,Website Traffic,Image,Infographic C.jpg,15077,373,1774.05,7,1849.02
+2024-01-02,LinkedIn Ads,Sales Conversion,Image,Lifestyle B.png,15863,732,3161.13,5,718.63
+2024-01-03,Google Ads,Brand Awareness,Video,Behind the Scenes.mp4,18633,890,3391.75,19,3233.19
+2024-01-03,Google Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",17748,1020,1971.05,40,10381.73
+2024-01-03,Google Ads,Website Traffic,Image,Infographic C.jpg,18074,949,1919.81,35,5745.91
+2024-01-03,Google Ads,Sales Conversion,Text,"""Case Study"" Ad",14626,809,2309.01,28,5627.89
+2024-01-03,Meta Ads,Brand Awareness,Text,"""Case Study"" Ad",11076,121,276.8,1,256.71
+2024-01-03,Meta Ads,Lead Generation,Video,Explainer Animation.mov,11543,646,973.54,20,4016.82
+2024-01-03,Meta Ads,Website Traffic,Video,Explainer Animation.mov,6444,361,434.18,13,3266.76
+2024-01-03,Meta Ads,Sales Conversion,Image,Lifestyle B.png,8225,278,249.32,4,572.72
+2024-01-03,LinkedIn Ads,Brand Awareness,Image,Lifestyle B.png,19285,1046,6612.14,14,2238.02
+2024-01-03,LinkedIn Ads,Lead Generation,Video,Testimonial Reel.mp4,11654,641,4311.96,7,388.12
+2024-01-03,LinkedIn Ads,Website Traffic,Text,"""Case Study"" Ad",5032,182,1134.37,2,462.02
+2024-01-03,LinkedIn Ads,Sales Conversion,Image,Product Showcase A.jpg,14731,333,2141.39,3,868.92
+2024-01-04,Google Ads,Brand Awareness,Image,Infographic C.jpg,13485,136,290.19,2,516.1
+2024-01-04,Google Ads,Lead Generation,Image,Lifestyle B.png,17378,985,3154.66,41,9330.2
+2024-01-04,Google Ads,Website Traffic,Text,"""Case Study"" Ad",11680,547,888.23,12,2210.93
+2024-01-04,Google Ads,Sales Conversion,Text,"""Case Study"" Ad",10980,292,636.98,8,1856.92
+2024-01-04,Meta Ads,Brand Awareness,Image,Product Showcase A.jpg,9715,448,485.45,6,1177.19
+2024-01-04,Meta Ads,Lead Generation,Image,Infographic C.jpg,12380,294,476.7,10,763.77
+2024-01-04,Meta Ads,Website Traffic,Image,Lifestyle B.png,16232,847,1272.32,16,4392.26
+2024-01-04,Meta Ads,Sales Conversion,Text,"""Free Demo"" Ad",18446,738,1740.59,15,2817.48
+2024-01-04,LinkedIn Ads,Brand Awareness,Image,Infographic C.jpg,18687,610,3234.17,5,1233.23
+2024-01-04,LinkedIn Ads,Lead Generation,Video,Testimonial Reel.mp4,5080,265,1926.91,2,408.01
+2024-01-04,LinkedIn Ads,Website Traffic,Video,Explainer Animation.mov,9119,343,1769.9,2,110.94
+2024-01-04,LinkedIn Ads,Sales Conversion,Text,"""Free Demo"" Ad",12509,482,3067.5,8,1101.97
+2024-01-05,Google Ads,Brand Awareness,Video,Explainer Animation.mov,14035,476,865.03,20,1671.81
+2024-01-05,Google Ads,Lead Generation,Text,"""Free Demo"" Ad",15296,588,1269.4,17,3679.8
+2024-01-05,Google Ads,Website Traffic,Video,Behind the Scenes.mp4,13723,776,2059.61,18,3369.69
+2024-01-05,Google Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",14341,647,1567.94,13,2801.01
+2024-01-05,Meta Ads,Brand Awareness,Text,"""Free Demo"" Ad",8515,441,881.26,16,4315.55
+2024-01-05,Meta Ads,Lead Generation,Text,"""Free Demo"" Ad",10297,233,196.24,8,1910.38
+2024-01-05,Meta Ads,Website Traffic,Image,Product Showcase A.jpg,16588,833,1814.66,26,6247.06
+2024-01-05,Meta Ads,Sales Conversion,Text,"""Case Study"" Ad",14231,847,1647.32,12,2343.3
+2024-01-05,LinkedIn Ads,Brand Awareness,Text,"""Free Demo"" Ad",11602,399,2157.69,4,988.11
+2024-01-05,LinkedIn Ads,Lead Generation,Text,"""Case Study"" Ad",7210,160,918.18,2,523.51
+2024-01-05,LinkedIn Ads,Website Traffic,Image,Lifestyle B.png,8309,303,1902.23,3,717.1
+2024-01-05,LinkedIn Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",5868,232,1455.34,2,336.17
+2024-01-06,Google Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",5228,135,389.91,4,873.4
+2024-01-06,Google Ads,Lead Generation,Video,Behind the Scenes.mp4,7287,147,517.75,3,243.22
+2024-01-06,Google Ads,Website Traffic,Image,Infographic C.jpg,14087,157,330.6,4,835.49
+2024-01-06,Google Ads,Sales Conversion,Image,Infographic C.jpg,16866,460,1382.09,11,581.78
+2024-01-06,Meta Ads,Brand Awareness,Video,Explainer Animation.mov,10985,625,609.7,10,2335.38
+2024-01-06,Meta Ads,Lead Generation,Image,Infographic C.jpg,17339,562,1129.31,8,2317.23
+2024-01-06,Meta Ads,Website Traffic,Video,Testimonial Reel.mp4,11528,648,556.62,9,620.58
+2024-01-06,Meta Ads,Sales Conversion,Image,Infographic C.jpg,19305,793,873.67,21,1928.69
+2024-01-06,LinkedIn Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",18682,879,5841.88,12,2023.74
+2024-01-06,LinkedIn Ads,Lead Generation,Image,Infographic C.jpg,11654,293,2147.23,4,1016.16
+2024-01-06,LinkedIn Ads,Website Traffic,Video,Explainer Animation.mov,10623,235,1642.1,3,151.36
+2024-01-06,LinkedIn Ads,Sales Conversion,Video,Behind the Scenes.mp4,6081,299,1806.53,2,231.99
+2024-01-07,Google Ads,Brand Awareness,Text,"""Case Study"" Ad",10921,606,1398.76,26,1905.88
+2024-01-07,Google Ads,Lead Generation,Video,Testimonial Reel.mp4,11395,666,2580.6,27,7653.16
+2024-01-07,Google Ads,Website Traffic,Text,"""Free Demo"" Ad",10380,184,470.1,9,945.2
+2024-01-07,Google Ads,Sales Conversion,Video,Testimonial Reel.mp4,5683,117,275.01,5,715.63
+2024-01-07,Meta Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",7223,426,917.16,10,1119.51
+2024-01-07,Meta Ads,Lead Generation,Image,Lifestyle B.png,6481,257,261.72,7,700.46
+2024-01-07,Meta Ads,Website Traffic,Video,Explainer Animation.mov,12604,741,701.25,8,590.9
+2024-01-07,Meta Ads,Sales Conversion,Text,"""Free Demo"" Ad",13601,579,1384.64,7,686.2
+2024-01-07,LinkedIn Ads,Brand Awareness,Video,Testimonial Reel.mp4,5500,217,926.28,2,311.85
+2024-01-07,LinkedIn Ads,Lead Generation,Text,"""Case Study"" Ad",8238,85,392.87,0,0.0
+2024-01-07,LinkedIn Ads,Website Traffic,Text,"""Free Demo"" Ad",5473,75,548.01,0,0.0
+2024-01-07,LinkedIn Ads,Sales Conversion,Video,Testimonial Reel.mp4,13638,197,912.39,2,425.71
+2024-01-08,Google Ads,Brand Awareness,Video,Behind the Scenes.mp4,9573,272,1059.35,6,1719.29
+2024-01-08,Google Ads,Lead Generation,Video,Testimonial Reel.mp4,13307,151,324.77,4,993.98
+2024-01-08,Google Ads,Website Traffic,Image,Product Showcase A.jpg,10853,321,582.01,6,982.36
+2024-01-08,Google Ads,Sales Conversion,Image,Infographic C.jpg,5682,148,484.33,6,1410.44
+2024-01-08,Meta Ads,Brand Awareness,Image,Product Showcase A.jpg,18184,556,1124.6,13,2425.67
+2024-01-08,Meta Ads,Lead Generation,Image,Lifestyle B.png,8402,181,303.94,3,161.94
+2024-01-08,Meta Ads,Website Traffic,Image,Infographic C.jpg,10094,422,651.1,10,1198.19
+2024-01-08,Meta Ads,Sales Conversion,Image,Infographic C.jpg,13515,380,680.8,10,860.42
+2024-01-08,LinkedIn Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",5567,207,1338.55,3,735.93
+2024-01-08,LinkedIn Ads,Lead Generation,Video,Testimonial Reel.mp4,13948,259,1126.6,2,270.56
+2024-01-08,LinkedIn Ads,Website Traffic,Video,Behind the Scenes.mp4,10805,508,2582.82,3,173.07
+2024-01-08,LinkedIn Ads,Sales Conversion,Video,Behind the Scenes.mp4,19122,247,1117.76,4,809.65
+2024-01-09,Google Ads,Brand Awareness,Text,"""Case Study"" Ad",15948,370,1058.92,9,1360.55
+2024-01-09,Google Ads,Lead Generation,Video,Explainer Animation.mov,5061,179,712.26,5,949.94
+2024-01-09,Google Ads,Website Traffic,Video,Behind the Scenes.mp4,11813,282,686.56,9,1956.97
+2024-01-09,Google Ads,Sales Conversion,Text,"""Case Study"" Ad",15632,162,256.61,5,1417.57
+2024-01-09,Meta Ads,Brand Awareness,Image,Product Showcase A.jpg,8497,200,298.98,4,548.55
+2024-01-09,Meta Ads,Lead Generation,Image,Lifestyle B.png,19534,1154,1399.25,12,2207.41
+2024-01-09,Meta Ads,Website Traffic,Image,Infographic C.jpg,7132,354,514.6,8,2098.6
+2024-01-09,Meta Ads,Sales Conversion,Video,Explainer Animation.mov,9588,481,1076.42,15,1032.61
+2024-01-09,LinkedIn Ads,Brand Awareness,Image,Infographic C.jpg,10501,403,1895.3,4,920.77
+2024-01-09,LinkedIn Ads,Lead Generation,Text,"""Case Study"" Ad",19343,636,2727.91,11,2279.54
+2024-01-09,LinkedIn Ads,Website Traffic,Video,Behind the Scenes.mp4,15603,517,3503.91,7,1197.59
+2024-01-09,LinkedIn Ads,Sales Conversion,Image,Product Showcase A.jpg,14157,354,1693.22,3,348.52
+2024-01-10,Google Ads,Brand Awareness,Image,Infographic C.jpg,16569,610,2088.6,28,3923.96
+2024-01-10,Google Ads,Lead Generation,Text,"""Case Study"" Ad",12131,298,723.32,12,2118.95
+2024-01-10,Google Ads,Website Traffic,Video,Testimonial Reel.mp4,5451,55,110.28,1,61.56
+2024-01-10,Google Ads,Sales Conversion,Image,Product Showcase A.jpg,14393,541,968.78,21,1860.74
+2024-01-10,Meta Ads,Brand Awareness,Video,Behind the Scenes.mp4,9573,559,599.95,19,2123.61
+2024-01-10,Meta Ads,Lead Generation,Image,Lifestyle B.png,17367,262,544.61,6,579.63
+2024-01-10,Meta Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",6995,295,592.42,11,2079.98
+2024-01-10,Meta Ads,Sales Conversion,Text,"""Case Study"" Ad",12296,509,843.51,6,1739.54
+2024-01-10,LinkedIn Ads,Brand Awareness,Video,Testimonial Reel.mp4,10617,478,2967.63,8,1023.69
+2024-01-10,LinkedIn Ads,Lead Generation,Video,Testimonial Reel.mp4,5018,144,863.24,1,206.37
+2024-01-10,LinkedIn Ads,Website Traffic,Text,"""Free Demo"" Ad",19132,380,2646.65,4,1006.87
+2024-01-10,LinkedIn Ads,Sales Conversion,Image,Product Showcase A.jpg,14150,322,1552.76,4,396.8
+2024-01-11,Google Ads,Brand Awareness,Text,"""Case Study"" Ad",8589,373,1044.33,12,733.94
+2024-01-11,Google Ads,Lead Generation,Video,Behind the Scenes.mp4,19169,470,1419.35,13,2306.32
+2024-01-11,Google Ads,Website Traffic,Text,"""Case Study"" Ad",12364,551,2155.37,13,2807.98
+2024-01-11,Google Ads,Sales Conversion,Text,"""Free Demo"" Ad",13046,596,2090.48,28,1770.09
+2024-01-11,Meta Ads,Brand Awareness,Text,"""Case Study"" Ad",7079,378,729.86,12,3262.15
+2024-01-11,Meta Ads,Lead Generation,Video,Testimonial Reel.mp4,8443,267,605.76,7,1143.07
+2024-01-11,Meta Ads,Website Traffic,Image,Lifestyle B.png,14579,492,891.87,5,481.72
+2024-01-11,Meta Ads,Sales Conversion,Text,"""Case Study"" Ad",5685,189,358.21,3,526.41
+2024-01-11,LinkedIn Ads,Brand Awareness,Image,Infographic C.jpg,10183,409,2560.73,5,1335.27
+2024-01-11,LinkedIn Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",7278,110,685.21,0,0.0
+2024-01-11,LinkedIn Ads,Website Traffic,Image,Infographic C.jpg,16781,489,2832.02,5,504.34
+2024-01-11,LinkedIn Ads,Sales Conversion,Text,"""Free Demo"" Ad",16255,325,1982.32,5,446.29
+2024-01-12,Google Ads,Brand Awareness,Text,"""Free Demo"" Ad",15598,237,453.54,4,1066.29
+2024-01-12,Google Ads,Lead Generation,Video,Explainer Animation.mov,17588,286,966.57,11,2172.11
+2024-01-12,Google Ads,Website Traffic,Image,Product Showcase A.jpg,17226,225,540.68,5,1456.31
+2024-01-12,Google Ads,Sales Conversion,Text,"""Case Study"" Ad",6640,244,526.07,10,1567.9
+2024-01-12,Meta Ads,Brand Awareness,Text,"""Free Demo"" Ad",18367,1024,1352.27,25,6420.97
+2024-01-12,Meta Ads,Lead Generation,Image,Lifestyle B.png,15884,272,679.89,5,1216.81
+2024-01-12,Meta Ads,Website Traffic,Video,Testimonial Reel.mp4,15721,730,776.62,23,1589.65
+2024-01-12,Meta Ads,Sales Conversion,Video,Testimonial Reel.mp4,19833,1065,2024.64,32,3478.3
+2024-01-12,LinkedIn Ads,Brand Awareness,Text,"""Case Study"" Ad",11618,693,3745.26,10,1463.93
+2024-01-12,LinkedIn Ads,Lead Generation,Text,"""Case Study"" Ad",8680,177,1033.08,1,262.16
+2024-01-12,LinkedIn Ads,Website Traffic,Text,"""Free Demo"" Ad",8108,443,2653.17,3,311.93
+2024-01-12,LinkedIn Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",9218,364,2701.1,4,945.3
+2024-01-13,Google Ads,Brand Awareness,Text,"""Free Demo"" Ad",5659,153,247.08,3,429.45
+2024-01-13,Google Ads,Lead Generation,Video,Testimonial Reel.mp4,18082,737,2062.35,28,3774.8
+2024-01-13,Google Ads,Website Traffic,Image,Lifestyle B.png,11601,376,1311.31,15,1775.29
+2024-01-13,Google Ads,Sales Conversion,Image,Infographic C.jpg,5468,305,1216.94,6,609.34
+2024-01-13,Meta Ads,Brand Awareness,Image,Infographic C.jpg,19373,804,1789.84,26,2756.08
+2024-01-13,Meta Ads,Lead Generation,Video,Testimonial Reel.mp4,10193,503,517.2,14,2471.37
+2024-01-13,Meta Ads,Website Traffic,Video,Testimonial Reel.mp4,10154,129,185.57,5,929.53
+2024-01-13,Meta Ads,Sales Conversion,Image,Lifestyle B.png,14687,808,803.95,25,5635.84
+2024-01-13,LinkedIn Ads,Brand Awareness,Text,"""Free Demo"" Ad",17542,695,4346.72,4,358.87
+2024-01-13,LinkedIn Ads,Lead Generation,Image,Product Showcase A.jpg,15767,506,2281.28,6,1736.66
+2024-01-13,LinkedIn Ads,Website Traffic,Video,Explainer Animation.mov,5143,101,743.42,0,0.0
+2024-01-13,LinkedIn Ads,Sales Conversion,Video,Explainer Animation.mov,15410,638,3710.09,11,2732.27
+2024-01-14,Google Ads,Brand Awareness,Text,"""Free Demo"" Ad",5687,330,916.24,9,2563.67
+2024-01-14,Google Ads,Lead Generation,Image,Infographic C.jpg,17726,988,2053.17,29,3645.37
+2024-01-14,Google Ads,Website Traffic,Text,"""Case Study"" Ad",11866,158,626.29,6,1170.96
+2024-01-14,Google Ads,Sales Conversion,Image,Product Showcase A.jpg,17450,628,1914.22,25,3295.96
+2024-01-14,Meta Ads,Brand Awareness,Video,Testimonial Reel.mp4,12011,222,217.24,4,775.71
+2024-01-14,Meta Ads,Lead Generation,Image,Product Showcase A.jpg,5264,255,633.99,7,686.48
+2024-01-14,Meta Ads,Website Traffic,Image,Infographic C.jpg,19173,862,1808.29,10,2935.91
+2024-01-14,Meta Ads,Sales Conversion,Video,Behind the Scenes.mp4,8055,312,347.63,9,786.02
+2024-01-14,LinkedIn Ads,Brand Awareness,Image,Product Showcase A.jpg,13156,665,3069.88,8,1313.83
+2024-01-14,LinkedIn Ads,Lead Generation,Image,Product Showcase A.jpg,12832,191,920.88,1,96.01
+2024-01-14,LinkedIn Ads,Website Traffic,Text,"""Case Study"" Ad",17842,485,2383.7,5,1099.73
+2024-01-14,LinkedIn Ads,Sales Conversion,Video,Testimonial Reel.mp4,18698,739,3634.46,14,963.78
+2024-01-15,Google Ads,Brand Awareness,Text,"""Case Study"" Ad",10335,138,440.17,6,532.1
+2024-01-15,Google Ads,Lead Generation,Video,Behind the Scenes.mp4,16620,226,634.67,6,1001.82
+2024-01-15,Google Ads,Website Traffic,Video,Explainer Animation.mov,19461,595,1035.92,21,2169.0
+2024-01-15,Google Ads,Sales Conversion,Video,Behind the Scenes.mp4,5957,175,561.87,5,1487.2
+2024-01-15,Meta Ads,Brand Awareness,Video,Explainer Animation.mov,5750,152,285.87,5,1163.88
+2024-01-15,Meta Ads,Lead Generation,Image,Infographic C.jpg,10033,231,374.52,8,769.67
+2024-01-15,Meta Ads,Website Traffic,Video,Explainer Animation.mov,16796,428,667.44,14,2469.26
+2024-01-15,Meta Ads,Sales Conversion,Image,Infographic C.jpg,11925,128,181.05,1,267.47
+2024-01-15,LinkedIn Ads,Brand Awareness,Video,Explainer Animation.mov,17897,539,3769.36,6,1420.9
+2024-01-15,LinkedIn Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",13593,590,2680.36,5,1166.66
+2024-01-15,LinkedIn Ads,Website Traffic,Video,Explainer Animation.mov,13199,539,3466.31,10,1039.34
+2024-01-15,LinkedIn Ads,Sales Conversion,Video,Explainer Animation.mov,8704,164,871.47,1,126.46
+2024-01-16,Google Ads,Brand Awareness,Video,Explainer Animation.mov,14014,322,977.51,7,1165.22
+2024-01-16,Google Ads,Lead Generation,Text,"""Case Study"" Ad",11923,145,288.56,3,627.06
+2024-01-16,Google Ads,Website Traffic,Video,Behind the Scenes.mp4,14759,372,1303.71,11,1209.47
+2024-01-16,Google Ads,Sales Conversion,Video,Behind the Scenes.mp4,11341,627,2287.52,13,3815.47
+2024-01-16,Meta Ads,Brand Awareness,Video,Testimonial Reel.mp4,15599,174,143.66,3,633.03
+2024-01-16,Meta Ads,Lead Generation,Video,Explainer Animation.mov,6336,368,564.46,13,1717.83
+2024-01-16,Meta Ads,Website Traffic,Image,Product Showcase A.jpg,8663,507,504.44,12,953.01
+2024-01-16,Meta Ads,Sales Conversion,Text,"""Case Study"" Ad",11316,181,345.17,4,994.33
+2024-01-16,LinkedIn Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",6828,98,529.51,1,248.98
+2024-01-16,LinkedIn Ads,Lead Generation,Image,Lifestyle B.png,7420,178,1125.75,3,362.85
+2024-01-16,LinkedIn Ads,Website Traffic,Video,Behind the Scenes.mp4,11214,568,3063.88,5,1284.82
+2024-01-16,LinkedIn Ads,Sales Conversion,Image,Product Showcase A.jpg,9540,422,3164.82,4,547.02
+2024-01-17,Google Ads,Brand Awareness,Text,"""Free Demo"" Ad",8180,442,678.61,19,1135.63
+2024-01-17,Google Ads,Lead Generation,Image,Infographic C.jpg,18355,874,1920.28,20,1497.61
+2024-01-17,Google Ads,Website Traffic,Video,Testimonial Reel.mp4,9339,451,1783.11,16,3730.98
+2024-01-17,Google Ads,Sales Conversion,Video,Behind the Scenes.mp4,9976,146,227.18,3,402.53
+2024-01-17,Meta Ads,Brand Awareness,Text,"""Case Study"" Ad",14735,636,1013.96,15,1289.78
+2024-01-17,Meta Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",15315,666,567.02,7,1490.56
+2024-01-17,Meta Ads,Website Traffic,Image,Infographic C.jpg,13347,253,267.76,2,390.47
+2024-01-17,Meta Ads,Sales Conversion,Image,Product Showcase A.jpg,11509,233,196.86,7,664.53
+2024-01-17,LinkedIn Ads,Brand Awareness,Text,"""Free Demo"" Ad",16046,332,1888.37,4,281.91
+2024-01-17,LinkedIn Ads,Lead Generation,Video,Explainer Animation.mov,12548,656,3533.17,8,1747.86
+2024-01-17,LinkedIn Ads,Website Traffic,Text,"""Case Study"" Ad",10316,174,938.85,1,213.91
+2024-01-17,LinkedIn Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",7386,172,703.11,1,297.85
+2024-01-18,Google Ads,Brand Awareness,Video,Explainer Animation.mov,10734,341,759.12,15,2433.61
+2024-01-18,Google Ads,Lead Generation,Video,Behind the Scenes.mp4,18934,261,847.47,11,1314.6
+2024-01-18,Google Ads,Website Traffic,Image,Infographic C.jpg,6575,115,285.32,5,521.2
+2024-01-18,Google Ads,Sales Conversion,Image,Infographic C.jpg,13767,451,1253.79,13,3780.54
+2024-01-18,Meta Ads,Brand Awareness,Image,Lifestyle B.png,9781,178,442.81,5,1215.39
+2024-01-18,Meta Ads,Lead Generation,Image,Product Showcase A.jpg,6945,243,379.33,2,226.34
+2024-01-18,Meta Ads,Website Traffic,Text,"""Case Study"" Ad",19105,296,710.42,7,1033.53
+2024-01-18,Meta Ads,Sales Conversion,Video,Explainer Animation.mov,12780,235,272.03,2,371.21
+2024-01-18,LinkedIn Ads,Brand Awareness,Text,"""Case Study"" Ad",19519,542,4016.14,9,557.33
+2024-01-18,LinkedIn Ads,Lead Generation,Text,"""Case Study"" Ad",14096,140,842.22,1,215.88
+2024-01-18,LinkedIn Ads,Website Traffic,Video,Behind the Scenes.mp4,8905,491,3145.51,5,626.09
+2024-01-18,LinkedIn Ads,Sales Conversion,Image,Lifestyle B.png,5048,191,1425.46,3,289.46
+2024-01-19,Google Ads,Brand Awareness,Video,Behind the Scenes.mp4,10595,386,1198.86,10,2376.25
+2024-01-19,Google Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",12604,180,662.99,8,1991.21
+2024-01-19,Google Ads,Website Traffic,Video,Behind the Scenes.mp4,18578,940,2208.31,25,2973.74
+2024-01-19,Google Ads,Sales Conversion,Image,Lifestyle B.png,10872,349,1366.36,15,3376.53
+2024-01-19,Meta Ads,Brand Awareness,Video,Behind the Scenes.mp4,10901,222,532.08,8,981.87
+2024-01-19,Meta Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",16847,384,540.75,8,2234.79
+2024-01-19,Meta Ads,Website Traffic,Image,Infographic C.jpg,6817,113,219.4,1,282.14
+2024-01-19,Meta Ads,Sales Conversion,Video,Explainer Animation.mov,8474,442,578.68,16,2248.04
+2024-01-19,LinkedIn Ads,Brand Awareness,Image,Infographic C.jpg,7757,436,2620.98,7,670.4
+2024-01-19,LinkedIn Ads,Lead Generation,Image,Infographic C.jpg,15108,897,6628.9,14,2437.9
+2024-01-19,LinkedIn Ads,Website Traffic,Text,"""Free Demo"" Ad",12577,231,1721.46,3,787.04
+2024-01-19,LinkedIn Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",8606,438,2786.15,6,1647.58
+2024-01-20,Google Ads,Brand Awareness,Image,Product Showcase A.jpg,8372,180,358.51,3,610.0
+2024-01-20,Google Ads,Lead Generation,Video,Testimonial Reel.mp4,14333,696,1569.83,32,4108.98
+2024-01-20,Google Ads,Website Traffic,Video,Explainer Animation.mov,7402,404,1470.84,19,2126.93
+2024-01-20,Google Ads,Sales Conversion,Image,Product Showcase A.jpg,10225,196,356.42,9,2256.25
+2024-01-20,Meta Ads,Brand Awareness,Video,Explainer Animation.mov,12413,529,1029.86,7,1108.97
+2024-01-20,Meta Ads,Lead Generation,Video,Testimonial Reel.mp4,7118,82,101.8,2,578.91
+2024-01-20,Meta Ads,Website Traffic,Image,Product Showcase A.jpg,7027,186,375.49,3,262.65
+2024-01-20,Meta Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",14846,622,621.24,11,2431.32
+2024-01-20,LinkedIn Ads,Brand Awareness,Video,Behind the Scenes.mp4,15823,592,4423.54,6,853.69
+2024-01-20,LinkedIn Ads,Lead Generation,Video,Behind the Scenes.mp4,17506,764,3964.74,5,642.17
+2024-01-20,LinkedIn Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",17778,873,6134.97,13,3649.19
+2024-01-20,LinkedIn Ads,Sales Conversion,Video,Explainer Animation.mov,11979,319,1836.77,4,589.64
+2024-01-21,Google Ads,Brand Awareness,Image,Infographic C.jpg,12382,386,613.98,12,2617.97
+2024-01-21,Google Ads,Lead Generation,Image,Product Showcase A.jpg,15757,656,1283.31,19,1664.7
+2024-01-21,Google Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",17355,827,3058.05,25,2890.13
+2024-01-21,Google Ads,Sales Conversion,Video,Explainer Animation.mov,18095,561,957.8,23,5934.57
+2024-01-21,Meta Ads,Brand Awareness,Image,Infographic C.jpg,13542,494,718.36,15,4466.24
+2024-01-21,Meta Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",9025,289,466.06,10,873.89
+2024-01-21,Meta Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",10684,639,1462.96,7,654.93
+2024-01-21,Meta Ads,Sales Conversion,Image,Lifestyle B.png,8140,107,194.54,1,160.77
+2024-01-21,LinkedIn Ads,Brand Awareness,Video,Testimonial Reel.mp4,10830,436,2506.28,6,1176.01
+2024-01-21,LinkedIn Ads,Lead Generation,Image,Lifestyle B.png,14544,224,1326.59,2,314.98
+2024-01-21,LinkedIn Ads,Website Traffic,Video,Behind the Scenes.mp4,11870,257,1080.28,4,625.83
+2024-01-21,LinkedIn Ads,Sales Conversion,Video,Testimonial Reel.mp4,19664,982,5446.05,11,1453.14
+2024-01-22,Google Ads,Brand Awareness,Video,Testimonial Reel.mp4,6656,133,519.5,5,1365.94
+2024-01-22,Google Ads,Lead Generation,Text,"""Free Demo"" Ad",8818,142,303.85,3,448.22
+2024-01-22,Google Ads,Website Traffic,Image,Lifestyle B.png,17602,401,1342.25,18,5030.07
+2024-01-22,Google Ads,Sales Conversion,Text,"""Case Study"" Ad",19183,498,1730.81,20,5850.06
+2024-01-22,Meta Ads,Brand Awareness,Video,Explainer Animation.mov,17393,562,1053.69,15,4386.01
+2024-01-22,Meta Ads,Lead Generation,Video,Explainer Animation.mov,13757,453,1092.75,17,1169.4
+2024-01-22,Meta Ads,Website Traffic,Text,"""Free Demo"" Ad",12486,248,421.64,6,967.82
+2024-01-22,Meta Ads,Sales Conversion,Image,Infographic C.jpg,18409,436,963.56,10,1846.13
+2024-01-22,LinkedIn Ads,Brand Awareness,Video,Behind the Scenes.mp4,8530,411,2081.78,3,622.85
+2024-01-22,LinkedIn Ads,Lead Generation,Video,Explainer Animation.mov,10149,315,1681.26,2,230.5
+2024-01-22,LinkedIn Ads,Website Traffic,Text,"""Case Study"" Ad",9555,369,1580.32,5,909.38
+2024-01-22,LinkedIn Ads,Sales Conversion,Image,Lifestyle B.png,8506,206,1318.3,2,480.13
+2024-01-23,Google Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",7102,249,440.03,5,1409.07
+2024-01-23,Google Ads,Lead Generation,Image,Lifestyle B.png,15305,174,439.08,4,1086.6
+2024-01-23,Google Ads,Website Traffic,Image,Product Showcase A.jpg,7363,289,664.3,11,3045.27
+2024-01-23,Google Ads,Sales Conversion,Video,Testimonial Reel.mp4,14106,726,2242.14,19,1257.01
+2024-01-23,Meta Ads,Brand Awareness,Video,Explainer Animation.mov,17678,236,507.8,6,1717.73
+2024-01-23,Meta Ads,Lead Generation,Image,Lifestyle B.png,5446,136,132.97,3,275.14
+2024-01-23,Meta Ads,Website Traffic,Text,"""Case Study"" Ad",8095,340,696.84,7,490.57
+2024-01-23,Meta Ads,Sales Conversion,Video,Explainer Animation.mov,6152,321,406.36,10,1808.09
+2024-01-23,LinkedIn Ads,Brand Awareness,Image,Infographic C.jpg,19357,659,4376.79,5,754.45
+2024-01-23,LinkedIn Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",14613,227,1492.85,2,108.66
+2024-01-23,LinkedIn Ads,Website Traffic,Image,Lifestyle B.png,7608,345,2114.82,5,1159.9
+2024-01-23,LinkedIn Ads,Sales Conversion,Video,Testimonial Reel.mp4,6593,120,695.91,1,270.19
+2024-01-24,Google Ads,Brand Awareness,Text,"""Case Study"" Ad",6071,235,415.7,5,405.11
+2024-01-24,Google Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",6303,207,677.0,5,646.28
+2024-01-24,Google Ads,Website Traffic,Text,"""Free Demo"" Ad",13955,348,687.27,15,2344.57
+2024-01-24,Google Ads,Sales Conversion,Text,"""Free Demo"" Ad",12407,562,855.34,17,3591.27
+2024-01-24,Meta Ads,Brand Awareness,Image,Lifestyle B.png,13216,607,1497.16,22,1661.26
+2024-01-24,Meta Ads,Lead Generation,Video,Explainer Animation.mov,9559,572,1405.9,16,2259.73
+2024-01-24,Meta Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",8039,466,441.47,6,586.12
+2024-01-24,Meta Ads,Sales Conversion,Text,"""Case Study"" Ad",7319,219,317.53,6,1061.38
+2024-01-24,LinkedIn Ads,Brand Awareness,Text,"""Free Demo"" Ad",16750,791,3999.77,9,578.47
+2024-01-24,LinkedIn Ads,Lead Generation,Image,Lifestyle B.png,11582,376,2529.12,2,555.43
+2024-01-24,LinkedIn Ads,Website Traffic,Image,Product Showcase A.jpg,15164,483,2192.86,5,1064.54
+2024-01-24,LinkedIn Ads,Sales Conversion,Text,"""Case Study"" Ad",15754,189,1079.24,3,357.55
+2024-01-25,Google Ads,Brand Awareness,Image,Lifestyle B.png,10221,314,1088.2,7,975.99
+2024-01-25,Google Ads,Lead Generation,Image,Infographic C.jpg,18132,461,793.35,12,3224.84
+2024-01-25,Google Ads,Website Traffic,Video,Behind the Scenes.mp4,9018,129,297.6,2,505.15
+2024-01-25,Google Ads,Sales Conversion,Video,Behind the Scenes.mp4,12515,160,306.55,5,1139.88
+2024-01-25,Meta Ads,Brand Awareness,Image,Infographic C.jpg,11126,281,477.13,5,626.69
+2024-01-25,Meta Ads,Lead Generation,Video,Testimonial Reel.mp4,15121,229,522.51,4,264.92
+2024-01-25,Meta Ads,Website Traffic,Image,Infographic C.jpg,15402,720,1044.07,25,4330.96
+2024-01-25,Meta Ads,Sales Conversion,Image,Infographic C.jpg,5811,88,140.64,1,273.44
+2024-01-25,LinkedIn Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",13850,507,2923.67,6,840.84
+2024-01-25,LinkedIn Ads,Lead Generation,Text,"""Free Demo"" Ad",15606,220,1588.15,3,890.48
+2024-01-25,LinkedIn Ads,Website Traffic,Video,Behind the Scenes.mp4,12553,719,5385.79,6,547.13
+2024-01-25,LinkedIn Ads,Sales Conversion,Video,Behind the Scenes.mp4,9985,579,4292.99,11,2291.03
+2024-01-26,Google Ads,Brand Awareness,Video,Behind the Scenes.mp4,14300,395,705.54,14,1408.73
+2024-01-26,Google Ads,Lead Generation,Video,Testimonial Reel.mp4,14429,382,940.06,11,2419.15
+2024-01-26,Google Ads,Website Traffic,Video,Testimonial Reel.mp4,12498,737,1396.18,24,5377.93
+2024-01-26,Google Ads,Sales Conversion,Image,Infographic C.jpg,17842,813,2321.11,38,9549.21
+2024-01-26,Meta Ads,Brand Awareness,Image,Lifestyle B.png,14495,727,1142.13,26,1766.88
+2024-01-26,Meta Ads,Lead Generation,Image,Infographic C.jpg,13218,412,808.0,14,3652.33
+2024-01-26,Meta Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",13830,727,977.73,9,1543.74
+2024-01-26,Meta Ads,Sales Conversion,Text,"""Case Study"" Ad",5891,99,131.65,2,380.94
+2024-01-26,LinkedIn Ads,Brand Awareness,Video,Behind the Scenes.mp4,19777,348,2361.72,5,932.0
+2024-01-26,LinkedIn Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",6980,127,716.54,2,379.62
+2024-01-26,LinkedIn Ads,Website Traffic,Image,Lifestyle B.png,11488,473,3488.24,3,679.4
+2024-01-26,LinkedIn Ads,Sales Conversion,Video,Behind the Scenes.mp4,18184,233,1035.56,2,114.23
+2024-01-27,Google Ads,Brand Awareness,Image,Lifestyle B.png,18355,914,3111.16,39,4532.6
+2024-01-27,Google Ads,Lead Generation,Video,Behind the Scenes.mp4,9019,129,300.29,4,1088.22
+2024-01-27,Google Ads,Website Traffic,Video,Testimonial Reel.mp4,12640,736,2397.84,25,2412.24
+2024-01-27,Google Ads,Sales Conversion,Video,Behind the Scenes.mp4,19255,753,1554.9,24,2668.55
+2024-01-27,Meta Ads,Brand Awareness,Image,Lifestyle B.png,13297,257,496.03,6,874.41
+2024-01-27,Meta Ads,Lead Generation,Video,Explainer Animation.mov,12435,289,444.67,10,988.17
+2024-01-27,Meta Ads,Website Traffic,Image,Lifestyle B.png,10381,599,899.84,21,1472.21
+2024-01-27,Meta Ads,Sales Conversion,Text,"""Free Demo"" Ad",17919,552,723.46,8,2099.84
+2024-01-27,LinkedIn Ads,Brand Awareness,Image,Lifestyle B.png,11162,154,810.53,2,134.43
+2024-01-27,LinkedIn Ads,Lead Generation,Image,Lifestyle B.png,12256,630,3938.62,3,413.39
+2024-01-27,LinkedIn Ads,Website Traffic,Image,Product Showcase A.jpg,17470,206,1473.4,1,267.96
+2024-01-27,LinkedIn Ads,Sales Conversion,Video,Testimonial Reel.mp4,15026,180,1315.05,1,292.32
+2024-01-28,Google Ads,Brand Awareness,Image,Product Showcase A.jpg,15870,842,1731.31,34,7291.62
+2024-01-28,Google Ads,Lead Generation,Image,Product Showcase A.jpg,13129,711,1615.01,15,2081.95
+2024-01-28,Google Ads,Website Traffic,Video,Behind the Scenes.mp4,5881,180,563.11,4,1009.93
+2024-01-28,Google Ads,Sales Conversion,Text,"""Case Study"" Ad",9634,288,765.06,8,1859.43
+2024-01-28,Meta Ads,Brand Awareness,Video,Behind the Scenes.mp4,8442,242,418.53,2,412.01
+2024-01-28,Meta Ads,Lead Generation,Text,"""Free Demo"" Ad",13404,705,792.94,18,4666.84
+2024-01-28,Meta Ads,Website Traffic,Text,"""Case Study"" Ad",7603,303,510.61,3,630.31
+2024-01-28,Meta Ads,Sales Conversion,Text,"""Free Demo"" Ad",8563,421,966.64,10,2287.22
+2024-01-28,LinkedIn Ads,Brand Awareness,Image,Infographic C.jpg,7679,371,2136.26,5,1432.55
+2024-01-28,LinkedIn Ads,Lead Generation,Video,Behind the Scenes.mp4,7030,161,764.02,1,236.48
+2024-01-28,LinkedIn Ads,Website Traffic,Video,Explainer Animation.mov,13092,320,2201.85,2,577.37
+2024-01-28,LinkedIn Ads,Sales Conversion,Image,Product Showcase A.jpg,15844,805,5420.42,6,971.53
+2024-01-29,Google Ads,Brand Awareness,Image,Product Showcase A.jpg,9520,273,1028.85,11,592.53
+2024-01-29,Google Ads,Lead Generation,Video,Testimonial Reel.mp4,16422,780,2047.78,26,1639.15
+2024-01-29,Google Ads,Website Traffic,Text,"""Case Study"" Ad",14342,752,2614.82,25,2742.27
+2024-01-29,Google Ads,Sales Conversion,Text,"""Free Demo"" Ad",17658,459,849.1,21,1210.95
+2024-01-29,Meta Ads,Brand Awareness,Video,Behind the Scenes.mp4,13296,607,523.57,9,1115.98
+2024-01-29,Meta Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",7754,94,101.92,1,135.42
+2024-01-29,Meta Ads,Website Traffic,Video,Testimonial Reel.mp4,8115,171,367.91,4,1118.35
+2024-01-29,Meta Ads,Sales Conversion,Image,Product Showcase A.jpg,18980,1003,1074.47,21,6053.59
+2024-01-29,LinkedIn Ads,Brand Awareness,Text,"""Free Demo"" Ad",13492,384,2202.13,6,1689.94
+2024-01-29,LinkedIn Ads,Lead Generation,Image,Product Showcase A.jpg,18029,987,6838.79,6,503.65
+2024-01-29,LinkedIn Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",10659,417,2877.83,4,233.95
+2024-01-29,LinkedIn Ads,Sales Conversion,Video,Explainer Animation.mov,7369,145,647.99,1,198.55
+2024-01-30,Google Ads,Brand Awareness,Video,Testimonial Reel.mp4,19914,714,1860.53,32,3659.95
+2024-01-30,Google Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",16699,916,1713.06,42,5695.79
+2024-01-30,Google Ads,Website Traffic,Video,Explainer Animation.mov,19094,917,2286.35,21,4840.08
+2024-01-30,Google Ads,Sales Conversion,Text,"""Free Demo"" Ad",12561,719,2369.87,34,2545.48
+2024-01-30,Meta Ads,Brand Awareness,Image,Lifestyle B.png,7344,420,1003.15,9,1684.45
+2024-01-30,Meta Ads,Lead Generation,Text,"""Case Study"" Ad",17390,959,1454.43,20,3793.5
+2024-01-30,Meta Ads,Website Traffic,Video,Behind the Scenes.mp4,12674,416,944.74,15,2857.63
+2024-01-30,Meta Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",6699,343,486.99,11,2032.58
+2024-01-30,LinkedIn Ads,Brand Awareness,Image,Infographic C.jpg,15472,374,2465.19,6,530.01
+2024-01-30,LinkedIn Ads,Lead Generation,Image,Infographic C.jpg,13366,525,2633.12,4,496.79
+2024-01-30,LinkedIn Ads,Website Traffic,Text,"""Free Demo"" Ad",9097,531,3905.73,9,1803.19
+2024-01-30,LinkedIn Ads,Sales Conversion,Image,Lifestyle B.png,5656,264,1488.28,3,530.54
+2024-01-31,Google Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",7032,392,1185.37,7,1789.09
+2024-01-31,Google Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",14488,433,741.66,8,1583.97
+2024-01-31,Google Ads,Website Traffic,Text,"""Free Demo"" Ad",16997,615,1149.87,25,7024.74
+2024-01-31,Google Ads,Sales Conversion,Video,Explainer Animation.mov,5971,76,183.7,3,567.78
+2024-01-31,Meta Ads,Brand Awareness,Text,"""Free Demo"" Ad",5434,146,217.97,5,1498.75
+2024-01-31,Meta Ads,Lead Generation,Video,Behind the Scenes.mp4,10444,487,1102.22,14,3812.89
+2024-01-31,Meta Ads,Website Traffic,Image,Lifestyle B.png,12976,633,574.89,24,4153.34
+2024-01-31,Meta Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",15757,711,1391.22,28,5369.53
+2024-01-31,LinkedIn Ads,Brand Awareness,Image,Lifestyle B.png,17275,754,3613.46,6,363.2
+2024-01-31,LinkedIn Ads,Lead Generation,Video,Explainer Animation.mov,5653,136,931.37,2,341.3
+2024-01-31,LinkedIn Ads,Website Traffic,Video,Explainer Animation.mov,8784,428,2385.13,3,385.57
+2024-01-31,LinkedIn Ads,Sales Conversion,Image,Infographic C.jpg,8759,523,2866.12,4,259.11
+2024-02-01,Google Ads,Brand Awareness,Image,Product Showcase A.jpg,13569,319,793.04,14,2359.68
+2024-02-01,Google Ads,Lead Generation,Text,"""Free Demo"" Ad",8910,214,845.17,5,290.99
+2024-02-01,Google Ads,Website Traffic,Video,Testimonial Reel.mp4,11809,350,639.45,13,3583.14
+2024-02-01,Google Ads,Sales Conversion,Video,Testimonial Reel.mp4,17356,994,2466.56,29,6390.83
+2024-02-01,Meta Ads,Brand Awareness,Video,Explainer Animation.mov,10113,529,583.1,12,772.04
+2024-02-01,Meta Ads,Lead Generation,Image,Infographic C.jpg,19705,768,1068.63,12,2188.89
+2024-02-01,Meta Ads,Website Traffic,Image,Lifestyle B.png,18209,735,1776.25,15,2589.87
+2024-02-01,Meta Ads,Sales Conversion,Image,Infographic C.jpg,5817,318,344.93,10,2842.62
+2024-02-01,LinkedIn Ads,Brand Awareness,Image,Infographic C.jpg,16137,304,1566.75,5,1375.28
+2024-02-01,LinkedIn Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",6517,202,1093.22,2,218.88
+2024-02-01,LinkedIn Ads,Website Traffic,Text,"""Free Demo"" Ad",19180,438,2721.01,3,452.98
+2024-02-01,LinkedIn Ads,Sales Conversion,Video,Testimonial Reel.mp4,7797,288,1914.98,5,692.97
+2024-02-02,Google Ads,Brand Awareness,Image,Infographic C.jpg,14035,267,480.63,11,2660.32
+2024-02-02,Google Ads,Lead Generation,Video,Explainer Animation.mov,5111,179,702.98,7,1016.57
+2024-02-02,Google Ads,Website Traffic,Image,Product Showcase A.jpg,14522,784,2612.84,21,2098.9
+2024-02-02,Google Ads,Sales Conversion,Text,"""Free Demo"" Ad",16544,519,1388.69,24,1765.77
+2024-02-02,Meta Ads,Brand Awareness,Image,Lifestyle B.png,9684,551,913.67,19,2994.11
+2024-02-02,Meta Ads,Lead Generation,Image,Lifestyle B.png,16588,866,1834.06,30,4424.22
+2024-02-02,Meta Ads,Website Traffic,Video,Behind the Scenes.mp4,7820,206,177.34,3,705.55
+2024-02-02,Meta Ads,Sales Conversion,Text,"""Free Demo"" Ad",7108,410,333.88,12,959.26
+2024-02-02,LinkedIn Ads,Brand Awareness,Video,Behind the Scenes.mp4,10121,391,2781.71,7,1237.9
+2024-02-02,LinkedIn Ads,Lead Generation,Video,Testimonial Reel.mp4,14688,430,2251.97,7,1148.36
+2024-02-02,LinkedIn Ads,Website Traffic,Image,Lifestyle B.png,7519,319,1750.88,2,560.05
+2024-02-02,LinkedIn Ads,Sales Conversion,Video,Explainer Animation.mov,18291,871,6391.73,4,871.48
+2024-02-03,Google Ads,Brand Awareness,Image,Infographic C.jpg,5605,236,548.24,11,1188.34
+2024-02-03,Google Ads,Lead Generation,Text,"""Case Study"" Ad",15559,317,683.92,6,635.03
+2024-02-03,Google Ads,Website Traffic,Video,Testimonial Reel.mp4,8638,411,676.67,17,1336.08
+2024-02-03,Google Ads,Sales Conversion,Video,Explainer Animation.mov,11418,531,951.96,19,4029.78
+2024-02-03,Meta Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",10402,171,413.89,2,572.61
+2024-02-03,Meta Ads,Lead Generation,Image,Product Showcase A.jpg,7748,433,591.96,14,2358.88
+2024-02-03,Meta Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",6816,130,189.05,1,188.82
+2024-02-03,Meta Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",15289,828,1889.87,12,3075.49
+2024-02-03,LinkedIn Ads,Brand Awareness,Text,"""Free Demo"" Ad",5705,206,998.74,1,53.45
+2024-02-03,LinkedIn Ads,Lead Generation,Video,Explainer Animation.mov,5090,142,585.05,2,177.42
+2024-02-03,LinkedIn Ads,Website Traffic,Video,Testimonial Reel.mp4,7778,457,2158.76,4,922.76
+2024-02-03,LinkedIn Ads,Sales Conversion,Text,"""Free Demo"" Ad",7314,324,2073.44,6,518.96
+2024-02-04,Google Ads,Brand Awareness,Video,Testimonial Reel.mp4,5498,236,455.08,11,1253.26
+2024-02-04,Google Ads,Lead Generation,Video,Explainer Animation.mov,18829,1104,2023.82,29,2207.69
+2024-02-04,Google Ads,Website Traffic,Text,"""Free Demo"" Ad",14774,857,1400.53,36,3440.97
+2024-02-04,Google Ads,Sales Conversion,Image,Lifestyle B.png,13505,347,911.31,11,2812.96
+2024-02-04,Meta Ads,Brand Awareness,Image,Lifestyle B.png,19516,496,717.34,18,1995.94
+2024-02-04,Meta Ads,Lead Generation,Image,Infographic C.jpg,5699,72,61.3,0,0.0
+2024-02-04,Meta Ads,Website Traffic,Video,Testimonial Reel.mp4,18273,481,759.89,5,1120.24
+2024-02-04,Meta Ads,Sales Conversion,Image,Lifestyle B.png,7402,85,203.13,2,571.52
+2024-02-04,LinkedIn Ads,Brand Awareness,Image,Infographic C.jpg,7264,312,2165.11,3,853.12
+2024-02-04,LinkedIn Ads,Lead Generation,Image,Lifestyle B.png,18356,970,4600.18,17,4418.87
+2024-02-04,LinkedIn Ads,Website Traffic,Image,Infographic C.jpg,11564,247,1046.06,3,453.14
+2024-02-04,LinkedIn Ads,Sales Conversion,Video,Testimonial Reel.mp4,16062,817,3368.82,15,3472.95
+2024-02-05,Google Ads,Brand Awareness,Image,Product Showcase A.jpg,9646,401,905.84,16,801.25
+2024-02-05,Google Ads,Lead Generation,Image,Infographic C.jpg,13987,615,1229.86,17,3288.13
+2024-02-05,Google Ads,Website Traffic,Text,"""Free Demo"" Ad",11434,578,2168.05,28,6357.92
+2024-02-05,Google Ads,Sales Conversion,Image,Infographic C.jpg,13729,292,626.21,11,2072.29
+2024-02-05,Meta Ads,Brand Awareness,Image,Product Showcase A.jpg,15453,696,1171.88,24,5377.04
+2024-02-05,Meta Ads,Lead Generation,Text,"""Case Study"" Ad",7593,361,797.09,5,1149.67
+2024-02-05,Meta Ads,Website Traffic,Text,"""Free Demo"" Ad",10463,451,1036.71,9,932.12
+2024-02-05,Meta Ads,Sales Conversion,Text,"""Free Demo"" Ad",7504,265,478.61,4,328.59
+2024-02-05,LinkedIn Ads,Brand Awareness,Text,"""Free Demo"" Ad",5716,73,544.52,0,0.0
+2024-02-05,LinkedIn Ads,Lead Generation,Text,"""Free Demo"" Ad",19312,266,1479.92,3,260.92
+2024-02-05,LinkedIn Ads,Website Traffic,Image,Infographic C.jpg,5890,68,300.55,0,0.0
+2024-02-05,LinkedIn Ads,Sales Conversion,Image,Product Showcase A.jpg,5109,192,1250.31,1,226.29
+2024-02-06,Google Ads,Brand Awareness,Image,Lifestyle B.png,10790,174,571.5,7,2026.33
+2024-02-06,Google Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",8808,280,812.22,9,2213.04
+2024-02-06,Google Ads,Website Traffic,Image,Lifestyle B.png,7179,186,517.55,6,1034.3
+2024-02-06,Google Ads,Sales Conversion,Text,"""Case Study"" Ad",18474,1077,2866.99,43,2341.45
+2024-02-06,Meta Ads,Brand Awareness,Image,Lifestyle B.png,15556,687,1209.9,11,2073.47
+2024-02-06,Meta Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",14386,303,471.5,8,2013.34
+2024-02-06,Meta Ads,Website Traffic,Video,Explainer Animation.mov,18173,415,367.39,6,516.44
+2024-02-06,Meta Ads,Sales Conversion,Video,Explainer Animation.mov,11722,215,507.56,6,611.61
+2024-02-06,LinkedIn Ads,Brand Awareness,Image,Lifestyle B.png,17585,718,3988.09,7,1316.8
+2024-02-06,LinkedIn Ads,Lead Generation,Image,Product Showcase A.jpg,5625,255,1818.39,4,1088.75
+2024-02-06,LinkedIn Ads,Website Traffic,Text,"""Case Study"" Ad",8405,359,2267.83,3,366.89
+2024-02-06,LinkedIn Ads,Sales Conversion,Video,Behind the Scenes.mp4,19121,303,1859.48,2,102.31
+2024-02-07,Google Ads,Brand Awareness,Image,Infographic C.jpg,16316,749,1744.74,34,1725.7
+2024-02-07,Google Ads,Lead Generation,Image,Lifestyle B.png,14523,758,1833.66,31,8961.08
+2024-02-07,Google Ads,Website Traffic,Image,Infographic C.jpg,12568,444,1139.13,21,1827.93
+2024-02-07,Google Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",19643,437,961.41,11,702.0
+2024-02-07,Meta Ads,Brand Awareness,Video,Behind the Scenes.mp4,7069,423,421.19,6,1549.1
+2024-02-07,Meta Ads,Lead Generation,Image,Lifestyle B.png,7601,79,79.76,1,152.16
+2024-02-07,Meta Ads,Website Traffic,Image,Lifestyle B.png,13783,595,546.35,19,5188.72
+2024-02-07,Meta Ads,Sales Conversion,Video,Behind the Scenes.mp4,11454,470,985.62,17,5016.09
+2024-02-07,LinkedIn Ads,Brand Awareness,Video,Explainer Animation.mov,15206,450,3200.41,5,975.34
+2024-02-07,LinkedIn Ads,Lead Generation,Video,Testimonial Reel.mp4,11970,623,4165.8,3,718.86
+2024-02-07,LinkedIn Ads,Website Traffic,Video,Explainer Animation.mov,15444,834,4294.42,13,2671.13
+2024-02-07,LinkedIn Ads,Sales Conversion,Image,Lifestyle B.png,5615,230,1475.24,2,450.46
+2024-02-08,Google Ads,Brand Awareness,Image,Infographic C.jpg,19912,391,1036.52,19,4042.11
+2024-02-08,Google Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",10240,109,320.58,4,1151.08
+2024-02-08,Google Ads,Website Traffic,Video,Explainer Animation.mov,10776,130,489.44,3,351.99
+2024-02-08,Google Ads,Sales Conversion,Image,Lifestyle B.png,18226,448,1267.62,13,3875.23
+2024-02-08,Meta Ads,Brand Awareness,Image,Product Showcase A.jpg,9723,553,983.49,13,3146.34
+2024-02-08,Meta Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",18175,418,721.04,12,1091.81
+2024-02-08,Meta Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",10691,588,649.5,12,1735.74
+2024-02-08,Meta Ads,Sales Conversion,Video,Explainer Animation.mov,18608,239,389.13,8,432.01
+2024-02-08,LinkedIn Ads,Brand Awareness,Text,"""Case Study"" Ad",8408,230,1104.37,2,515.6
+2024-02-08,LinkedIn Ads,Lead Generation,Video,Testimonial Reel.mp4,9372,531,2240.0,9,2699.22
+2024-02-08,LinkedIn Ads,Website Traffic,Video,Behind the Scenes.mp4,9389,292,1789.55,2,131.25
+2024-02-08,LinkedIn Ads,Sales Conversion,Video,Testimonial Reel.mp4,17154,821,5819.32,9,2058.96
+2024-02-09,Google Ads,Brand Awareness,Video,Testimonial Reel.mp4,6841,303,808.16,14,3583.3
+2024-02-09,Google Ads,Lead Generation,Video,Explainer Animation.mov,9070,282,434.36,11,654.7
+2024-02-09,Google Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",11553,335,1153.36,10,2830.75
+2024-02-09,Google Ads,Sales Conversion,Image,Infographic C.jpg,10733,412,1520.95,18,3692.48
+2024-02-09,Meta Ads,Brand Awareness,Text,"""Case Study"" Ad",6431,235,240.01,3,207.06
+2024-02-09,Meta Ads,Lead Generation,Video,Testimonial Reel.mp4,17460,779,982.01,8,2381.16
+2024-02-09,Meta Ads,Website Traffic,Video,Explainer Animation.mov,7736,236,395.98,2,391.43
+2024-02-09,Meta Ads,Sales Conversion,Image,Lifestyle B.png,12448,733,1435.5,12,3536.37
+2024-02-09,LinkedIn Ads,Brand Awareness,Text,"""Free Demo"" Ad",6164,278,1378.9,3,269.75
+2024-02-09,LinkedIn Ads,Lead Generation,Video,Testimonial Reel.mp4,7632,423,2238.17,3,348.83
+2024-02-09,LinkedIn Ads,Website Traffic,Video,Testimonial Reel.mp4,12557,272,1207.37,4,460.17
+2024-02-09,LinkedIn Ads,Sales Conversion,Image,Product Showcase A.jpg,10226,268,1738.41,2,519.77
+2024-02-10,Google Ads,Brand Awareness,Text,"""Free Demo"" Ad",19271,954,1668.55,23,5476.43
+2024-02-10,Google Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",13135,677,1639.7,21,4337.1
+2024-02-10,Google Ads,Website Traffic,Image,Lifestyle B.png,13848,565,1975.85,25,4859.22
+2024-02-10,Google Ads,Sales Conversion,Image,Lifestyle B.png,16218,354,1156.78,16,1191.97
+2024-02-10,Meta Ads,Brand Awareness,Video,Explainer Animation.mov,12654,550,606.26,17,2413.12
+2024-02-10,Meta Ads,Lead Generation,Video,Testimonial Reel.mp4,15154,649,1337.79,10,2117.35
+2024-02-10,Meta Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",18012,607,1350.5,21,6125.45
+2024-02-10,Meta Ads,Sales Conversion,Text,"""Case Study"" Ad",14832,178,300.9,6,854.29
+2024-02-10,LinkedIn Ads,Brand Awareness,Video,Behind the Scenes.mp4,11773,516,2956.82,3,249.5
+2024-02-10,LinkedIn Ads,Lead Generation,Image,Infographic C.jpg,16597,790,4985.32,7,625.7
+2024-02-10,LinkedIn Ads,Website Traffic,Video,Testimonial Reel.mp4,11156,222,1351.59,1,176.45
+2024-02-10,LinkedIn Ads,Sales Conversion,Text,"""Free Demo"" Ad",11739,309,1735.3,3,577.32
+2024-02-11,Google Ads,Brand Awareness,Image,Lifestyle B.png,9009,376,931.61,8,1053.86
+2024-02-11,Google Ads,Lead Generation,Image,Infographic C.jpg,18269,546,1811.34,26,2765.14
+2024-02-11,Google Ads,Website Traffic,Text,"""Case Study"" Ad",5254,114,371.82,4,331.62
+2024-02-11,Google Ads,Sales Conversion,Image,Infographic C.jpg,12843,176,569.22,6,1232.3
+2024-02-11,Meta Ads,Brand Awareness,Text,"""Case Study"" Ad",9499,255,233.57,5,712.51
+2024-02-11,Meta Ads,Lead Generation,Video,Explainer Animation.mov,19264,627,1172.09,6,461.59
+2024-02-11,Meta Ads,Website Traffic,Text,"""Free Demo"" Ad",15079,315,729.97,8,1931.81
+2024-02-11,Meta Ads,Sales Conversion,Video,Behind the Scenes.mp4,15619,712,1271.5,27,3905.35
+2024-02-11,LinkedIn Ads,Brand Awareness,Image,Product Showcase A.jpg,15795,556,2346.98,5,298.61
+2024-02-11,LinkedIn Ads,Lead Generation,Text,"""Free Demo"" Ad",6739,246,995.83,4,663.39
+2024-02-11,LinkedIn Ads,Website Traffic,Text,"""Free Demo"" Ad",7043,183,996.4,2,248.83
+2024-02-11,LinkedIn Ads,Sales Conversion,Video,Explainer Animation.mov,15591,820,5906.46,7,882.37
+2024-02-12,Google Ads,Brand Awareness,Video,Testimonial Reel.mp4,7412,310,838.83,8,1085.14
+2024-02-12,Google Ads,Lead Generation,Image,Infographic C.jpg,5481,224,824.79,9,2195.47
+2024-02-12,Google Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",13070,432,713.19,20,4888.63
+2024-02-12,Google Ads,Sales Conversion,Image,Infographic C.jpg,18948,251,937.6,10,684.48
+2024-02-12,Meta Ads,Brand Awareness,Text,"""Free Demo"" Ad",15864,693,861.31,22,2418.5
+2024-02-12,Meta Ads,Lead Generation,Text,"""Free Demo"" Ad",19861,502,432.31,7,739.94
+2024-02-12,Meta Ads,Website Traffic,Video,Testimonial Reel.mp4,5870,99,208.63,1,239.57
+2024-02-12,Meta Ads,Sales Conversion,Video,Testimonial Reel.mp4,6752,304,669.25,3,855.91
+2024-02-12,LinkedIn Ads,Brand Awareness,Text,"""Free Demo"" Ad",9243,271,1559.62,5,1102.77
+2024-02-12,LinkedIn Ads,Lead Generation,Image,Infographic C.jpg,10010,306,1981.69,4,429.73
+2024-02-12,LinkedIn Ads,Website Traffic,Image,Product Showcase A.jpg,14818,503,2808.88,4,706.0
+2024-02-12,LinkedIn Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",14476,639,3092.1,5,270.3
+2024-02-13,Google Ads,Brand Awareness,Video,Behind the Scenes.mp4,15032,604,1923.39,12,1281.84
+2024-02-13,Google Ads,Lead Generation,Video,Explainer Animation.mov,19623,752,2893.33,16,1568.82
+2024-02-13,Google Ads,Website Traffic,Image,Infographic C.jpg,5343,92,306.06,3,374.42
+2024-02-13,Google Ads,Sales Conversion,Text,"""Case Study"" Ad",9086,329,666.33,13,1602.29
+2024-02-13,Meta Ads,Brand Awareness,Video,Explainer Animation.mov,15100,411,800.05,5,741.05
+2024-02-13,Meta Ads,Lead Generation,Video,Behind the Scenes.mp4,15123,843,1745.92,10,606.21
+2024-02-13,Meta Ads,Website Traffic,Video,Explainer Animation.mov,15435,250,210.31,4,790.41
+2024-02-13,Meta Ads,Sales Conversion,Video,Behind the Scenes.mp4,5939,99,94.31,1,205.63
+2024-02-13,LinkedIn Ads,Brand Awareness,Image,Product Showcase A.jpg,11629,629,2897.24,4,755.63
+2024-02-13,LinkedIn Ads,Lead Generation,Image,Infographic C.jpg,12821,448,2073.82,4,394.36
+2024-02-13,LinkedIn Ads,Website Traffic,Text,"""Free Demo"" Ad",5323,161,992.9,2,408.03
+2024-02-13,LinkedIn Ads,Sales Conversion,Text,"""Case Study"" Ad",5852,274,2020.29,5,355.84
+2024-02-14,Google Ads,Brand Awareness,Text,"""Case Study"" Ad",12950,473,737.51,22,4578.51
+2024-02-14,Google Ads,Lead Generation,Image,Product Showcase A.jpg,13041,699,2275.6,14,3427.63
+2024-02-14,Google Ads,Website Traffic,Text,"""Free Demo"" Ad",6297,207,376.02,6,1686.3
+2024-02-14,Google Ads,Sales Conversion,Image,Infographic C.jpg,14919,650,2105.51,13,2834.25
+2024-02-14,Meta Ads,Brand Awareness,Video,Testimonial Reel.mp4,5947,167,143.62,4,460.63
+2024-02-14,Meta Ads,Lead Generation,Text,"""Case Study"" Ad",9936,261,567.67,5,304.74
+2024-02-14,Meta Ads,Website Traffic,Text,"""Free Demo"" Ad",13603,483,704.97,12,2623.57
+2024-02-14,Meta Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",5154,83,148.11,3,704.57
+2024-02-14,LinkedIn Ads,Brand Awareness,Text,"""Case Study"" Ad",17660,413,2045.62,7,1721.71
+2024-02-14,LinkedIn Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",15879,940,4167.95,11,2329.48
+2024-02-14,LinkedIn Ads,Website Traffic,Image,Product Showcase A.jpg,10857,500,2635.48,7,1187.39
+2024-02-14,LinkedIn Ads,Sales Conversion,Text,"""Free Demo"" Ad",18366,232,1464.69,2,212.4
+2024-02-15,Google Ads,Brand Awareness,Video,Explainer Animation.mov,9532,370,1433.8,18,2138.06
+2024-02-15,Google Ads,Lead Generation,Image,Lifestyle B.png,13862,354,823.26,14,3984.27
+2024-02-15,Google Ads,Website Traffic,Video,Testimonial Reel.mp4,9744,206,700.3,5,1434.26
+2024-02-15,Google Ads,Sales Conversion,Video,Explainer Animation.mov,19465,955,3811.15,20,3336.96
+2024-02-15,Meta Ads,Brand Awareness,Video,Testimonial Reel.mp4,6813,169,295.56,6,341.41
+2024-02-15,Meta Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",17844,891,1029.18,31,8200.74
+2024-02-15,Meta Ads,Website Traffic,Video,Testimonial Reel.mp4,18861,729,1512.47,11,2292.44
+2024-02-15,Meta Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",8373,235,249.36,8,1292.2
+2024-02-15,LinkedIn Ads,Brand Awareness,Image,Lifestyle B.png,10868,110,521.44,1,225.83
+2024-02-15,LinkedIn Ads,Lead Generation,Text,"""Free Demo"" Ad",7754,236,1568.94,3,373.67
+2024-02-15,LinkedIn Ads,Website Traffic,Video,Explainer Animation.mov,7460,445,2840.59,3,768.76
+2024-02-15,LinkedIn Ads,Sales Conversion,Video,Testimonial Reel.mp4,16072,884,6121.63,15,2900.49
+2024-02-16,Google Ads,Brand Awareness,Image,Product Showcase A.jpg,9753,453,717.29,17,2378.62
+2024-02-16,Google Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",6832,150,568.17,6,1002.5
+2024-02-16,Google Ads,Website Traffic,Video,Behind the Scenes.mp4,11426,198,653.58,4,914.27
+2024-02-16,Google Ads,Sales Conversion,Text,"""Case Study"" Ad",11629,120,453.64,4,1076.02
+2024-02-16,Meta Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",18090,1019,1380.03,27,2173.37
+2024-02-16,Meta Ads,Lead Generation,Text,"""Free Demo"" Ad",7079,165,195.58,2,545.42
+2024-02-16,Meta Ads,Website Traffic,Video,Testimonial Reel.mp4,7211,181,271.08,5,982.94
+2024-02-16,Meta Ads,Sales Conversion,Text,"""Case Study"" Ad",19723,894,1598.6,19,3231.53
+2024-02-16,LinkedIn Ads,Brand Awareness,Video,Behind the Scenes.mp4,8338,246,1346.8,2,177.91
+2024-02-16,LinkedIn Ads,Lead Generation,Video,Testimonial Reel.mp4,16904,747,3331.36,14,1767.83
+2024-02-16,LinkedIn Ads,Website Traffic,Video,Behind the Scenes.mp4,9841,121,651.43,1,216.09
+2024-02-16,LinkedIn Ads,Sales Conversion,Text,"""Free Demo"" Ad",9053,456,1870.13,3,556.12
+2024-02-17,Google Ads,Brand Awareness,Text,"""Case Study"" Ad",13624,197,492.12,7,1867.95
+2024-02-17,Google Ads,Lead Generation,Text,"""Case Study"" Ad",18769,573,1369.08,14,3323.99
+2024-02-17,Google Ads,Website Traffic,Image,Product Showcase A.jpg,12794,629,1242.83,14,3586.02
+2024-02-17,Google Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",8080,484,1628.99,15,2305.94
+2024-02-17,Meta Ads,Brand Awareness,Video,Explainer Animation.mov,9411,215,460.43,3,281.19
+2024-02-17,Meta Ads,Lead Generation,Image,Infographic C.jpg,18059,617,1481.19,22,1112.62
+2024-02-17,Meta Ads,Website Traffic,Text,"""Free Demo"" Ad",10934,158,370.56,2,548.77
+2024-02-17,Meta Ads,Sales Conversion,Video,Explainer Animation.mov,9029,203,162.82,4,1061.23
+2024-02-17,LinkedIn Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",16466,348,1753.03,4,641.47
+2024-02-17,LinkedIn Ads,Lead Generation,Text,"""Case Study"" Ad",9006,484,2243.9,2,339.17
+2024-02-17,LinkedIn Ads,Website Traffic,Video,Testimonial Reel.mp4,10486,327,2153.0,5,654.81
+2024-02-17,LinkedIn Ads,Sales Conversion,Video,Behind the Scenes.mp4,12569,234,1322.33,3,531.56
+2024-02-18,Google Ads,Brand Awareness,Video,Testimonial Reel.mp4,13506,712,1664.94,27,4819.97
+2024-02-18,Google Ads,Lead Generation,Video,Testimonial Reel.mp4,10332,395,1387.62,13,3209.16
+2024-02-18,Google Ads,Website Traffic,Image,Product Showcase A.jpg,17870,194,356.35,8,1550.96
+2024-02-18,Google Ads,Sales Conversion,Video,Behind the Scenes.mp4,9928,202,324.85,5,1278.48
+2024-02-18,Meta Ads,Brand Awareness,Video,Behind the Scenes.mp4,19549,581,894.45,9,1813.0
+2024-02-18,Meta Ads,Lead Generation,Video,Behind the Scenes.mp4,10333,413,940.86,12,3297.82
+2024-02-18,Meta Ads,Website Traffic,Text,"""Case Study"" Ad",12130,205,507.36,4,1086.85
+2024-02-18,Meta Ads,Sales Conversion,Video,Explainer Animation.mov,11706,608,1083.95,19,2239.63
+2024-02-18,LinkedIn Ads,Brand Awareness,Image,Infographic C.jpg,11498,536,3640.84,9,843.98
+2024-02-18,LinkedIn Ads,Lead Generation,Image,Infographic C.jpg,16597,714,3669.51,4,1117.42
+2024-02-18,LinkedIn Ads,Website Traffic,Text,"""Case Study"" Ad",18066,585,2600.13,9,1190.23
+2024-02-18,LinkedIn Ads,Sales Conversion,Video,Behind the Scenes.mp4,9991,425,1830.01,8,1208.45
+2024-02-19,Google Ads,Brand Awareness,Text,"""Free Demo"" Ad",19426,270,746.78,9,2402.31
+2024-02-19,Google Ads,Lead Generation,Video,Behind the Scenes.mp4,17362,335,1251.44,15,1016.88
+2024-02-19,Google Ads,Website Traffic,Video,Behind the Scenes.mp4,9508,296,759.47,7,1644.59
+2024-02-19,Google Ads,Sales Conversion,Video,Explainer Animation.mov,12812,141,518.23,4,554.05
+2024-02-19,Meta Ads,Brand Awareness,Video,Testimonial Reel.mp4,6673,183,348.17,3,466.58
+2024-02-19,Meta Ads,Lead Generation,Video,Testimonial Reel.mp4,7866,370,791.36,8,1140.59
+2024-02-19,Meta Ads,Website Traffic,Video,Behind the Scenes.mp4,7694,172,151.07,6,774.07
+2024-02-19,Meta Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",7831,89,82.82,1,208.87
+2024-02-19,LinkedIn Ads,Brand Awareness,Video,Explainer Animation.mov,18737,685,2795.16,6,513.95
+2024-02-19,LinkedIn Ads,Lead Generation,Video,Testimonial Reel.mp4,9415,466,2311.71,3,438.65
+2024-02-19,LinkedIn Ads,Website Traffic,Text,"""Free Demo"" Ad",13848,670,3585.03,11,2048.77
+2024-02-19,LinkedIn Ads,Sales Conversion,Text,"""Free Demo"" Ad",13615,166,850.49,1,57.12
+2024-02-20,Google Ads,Brand Awareness,Image,Infographic C.jpg,17806,901,2138.89,26,6042.62
+2024-02-20,Google Ads,Lead Generation,Image,Product Showcase A.jpg,10997,253,469.08,5,1326.81
+2024-02-20,Google Ads,Website Traffic,Image,Product Showcase A.jpg,8948,281,528.56,9,2658.32
+2024-02-20,Google Ads,Sales Conversion,Video,Testimonial Reel.mp4,10723,120,379.36,5,794.69
+2024-02-20,Meta Ads,Brand Awareness,Text,"""Free Demo"" Ad",15024,373,308.6,9,930.07
+2024-02-20,Meta Ads,Lead Generation,Image,Infographic C.jpg,10341,197,267.8,2,291.4
+2024-02-20,Meta Ads,Website Traffic,Video,Explainer Animation.mov,5773,264,262.86,4,519.77
+2024-02-20,Meta Ads,Sales Conversion,Image,Lifestyle B.png,19934,222,402.98,7,2083.11
+2024-02-20,LinkedIn Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",8960,169,825.66,2,510.53
+2024-02-20,LinkedIn Ads,Lead Generation,Image,Product Showcase A.jpg,13434,374,1697.21,2,288.8
+2024-02-20,LinkedIn Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",16767,465,3008.14,5,640.18
+2024-02-20,LinkedIn Ads,Sales Conversion,Video,Explainer Animation.mov,6418,249,1073.07,1,214.35
+2024-02-21,Google Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",8665,321,541.06,10,2669.06
+2024-02-21,Google Ads,Lead Generation,Image,Lifestyle B.png,6303,81,146.12,1,126.54
+2024-02-21,Google Ads,Website Traffic,Video,Testimonial Reel.mp4,15580,470,794.19,13,3574.78
+2024-02-21,Google Ads,Sales Conversion,Image,Infographic C.jpg,19570,667,1299.45,17,3957.5
+2024-02-21,Meta Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",10532,136,317.12,3,880.71
+2024-02-21,Meta Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",14672,631,1375.94,12,2707.89
+2024-02-21,Meta Ads,Website Traffic,Image,Product Showcase A.jpg,13422,366,689.81,9,1020.98
+2024-02-21,Meta Ads,Sales Conversion,Text,"""Free Demo"" Ad",12795,528,1291.31,6,1063.12
+2024-02-21,LinkedIn Ads,Brand Awareness,Image,Lifestyle B.png,14110,832,4182.06,13,692.5
+2024-02-21,LinkedIn Ads,Lead Generation,Video,Behind the Scenes.mp4,7692,286,1823.54,3,816.83
+2024-02-21,LinkedIn Ads,Website Traffic,Image,Lifestyle B.png,6860,393,2069.91,6,1497.82
+2024-02-21,LinkedIn Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",17704,927,4559.18,17,4105.01
+2024-02-22,Google Ads,Brand Awareness,Image,Lifestyle B.png,12100,609,1253.61,17,4287.74
+2024-02-22,Google Ads,Lead Generation,Video,Behind the Scenes.mp4,18313,550,827.09,20,1832.02
+2024-02-22,Google Ads,Website Traffic,Image,Product Showcase A.jpg,11585,546,1075.36,21,6056.63
+2024-02-22,Google Ads,Sales Conversion,Image,Infographic C.jpg,13352,779,1240.41,37,5928.66
+2024-02-22,Meta Ads,Brand Awareness,Text,"""Free Demo"" Ad",6557,131,317.31,1,162.74
+2024-02-22,Meta Ads,Lead Generation,Image,Lifestyle B.png,5025,86,107.38,1,287.4
+2024-02-22,Meta Ads,Website Traffic,Text,"""Case Study"" Ad",7581,256,470.63,9,1144.2
+2024-02-22,Meta Ads,Sales Conversion,Image,Infographic C.jpg,7708,105,136.86,4,979.03
+2024-02-22,LinkedIn Ads,Brand Awareness,Text,"""Free Demo"" Ad",13767,515,2489.75,9,2519.5
+2024-02-22,LinkedIn Ads,Lead Generation,Text,"""Free Demo"" Ad",13335,379,2212.88,2,473.07
+2024-02-22,LinkedIn Ads,Website Traffic,Image,Lifestyle B.png,19031,1089,8157.8,18,2590.66
+2024-02-22,LinkedIn Ads,Sales Conversion,Video,Explainer Animation.mov,5668,287,1965.92,5,863.8
+2024-02-23,Google Ads,Brand Awareness,Text,"""Case Study"" Ad",7590,446,1291.39,21,3553.26
+2024-02-23,Google Ads,Lead Generation,Video,Behind the Scenes.mp4,11641,132,223.72,4,599.93
+2024-02-23,Google Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",5237,298,846.19,13,740.54
+2024-02-23,Google Ads,Sales Conversion,Video,Explainer Animation.mov,6371,303,597.82,9,2075.62
+2024-02-23,Meta Ads,Brand Awareness,Video,Behind the Scenes.mp4,18789,728,1801.39,25,3181.47
+2024-02-23,Meta Ads,Lead Generation,Image,Infographic C.jpg,7159,379,593.46,8,981.68
+2024-02-23,Meta Ads,Website Traffic,Video,Testimonial Reel.mp4,18185,544,805.73,14,3440.04
+2024-02-23,Meta Ads,Sales Conversion,Image,Product Showcase A.jpg,19329,978,1437.15,30,1939.42
+2024-02-23,LinkedIn Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",9515,168,894.36,1,146.93
+2024-02-23,LinkedIn Ads,Lead Generation,Image,Infographic C.jpg,10170,319,1293.58,5,1186.53
+2024-02-23,LinkedIn Ads,Website Traffic,Image,Infographic C.jpg,5502,305,1327.23,5,521.59
+2024-02-23,LinkedIn Ads,Sales Conversion,Text,"""Free Demo"" Ad",19125,594,2795.99,6,1569.73
+2024-02-24,Google Ads,Brand Awareness,Video,Explainer Animation.mov,6712,136,526.26,5,468.82
+2024-02-24,Google Ads,Lead Generation,Image,Infographic C.jpg,17119,475,1530.89,15,4078.57
+2024-02-24,Google Ads,Website Traffic,Text,"""Free Demo"" Ad",7608,243,909.7,5,1000.09
+2024-02-24,Google Ads,Sales Conversion,Video,Explainer Animation.mov,17045,270,805.04,6,1048.17
+2024-02-24,Meta Ads,Brand Awareness,Video,Testimonial Reel.mp4,9476,219,295.38,3,383.89
+2024-02-24,Meta Ads,Lead Generation,Video,Explainer Animation.mov,17925,750,674.96,27,1801.22
+2024-02-24,Meta Ads,Website Traffic,Text,"""Free Demo"" Ad",5964,116,153.45,1,211.03
+2024-02-24,Meta Ads,Sales Conversion,Video,Explainer Animation.mov,15577,602,781.45,13,3598.8
+2024-02-24,LinkedIn Ads,Brand Awareness,Image,Lifestyle B.png,14968,556,4085.0,4,296.55
+2024-02-24,LinkedIn Ads,Lead Generation,Video,Behind the Scenes.mp4,10361,425,1836.67,2,323.54
+2024-02-24,LinkedIn Ads,Website Traffic,Video,Explainer Animation.mov,5151,231,1711.89,1,89.32
+2024-02-24,LinkedIn Ads,Sales Conversion,Video,Testimonial Reel.mp4,10281,418,2906.32,2,570.38
+2024-02-25,Google Ads,Brand Awareness,Image,Infographic C.jpg,16690,194,667.83,7,2054.57
+2024-02-25,Google Ads,Lead Generation,Image,Product Showcase A.jpg,13551,409,1387.07,14,2760.78
+2024-02-25,Google Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",9188,477,1244.99,14,2663.24
+2024-02-25,Google Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",16558,696,2133.7,29,1987.56
+2024-02-25,Meta Ads,Brand Awareness,Image,Lifestyle B.png,10742,593,1210.1,17,4431.19
+2024-02-25,Meta Ads,Lead Generation,Video,Testimonial Reel.mp4,14179,173,223.16,4,1090.38
+2024-02-25,Meta Ads,Website Traffic,Image,Product Showcase A.jpg,16579,801,1911.1,23,2915.42
+2024-02-25,Meta Ads,Sales Conversion,Image,Infographic C.jpg,13836,688,882.65,20,2180.76
+2024-02-25,LinkedIn Ads,Brand Awareness,Text,"""Case Study"" Ad",5060,276,1835.7,1,181.23
+2024-02-25,LinkedIn Ads,Lead Generation,Text,"""Free Demo"" Ad",12945,586,2961.36,8,794.57
+2024-02-25,LinkedIn Ads,Website Traffic,Video,Testimonial Reel.mp4,12803,156,1029.25,2,396.1
+2024-02-25,LinkedIn Ads,Sales Conversion,Image,Infographic C.jpg,5002,249,1373.96,2,134.78
+2024-02-26,Google Ads,Brand Awareness,Video,Explainer Animation.mov,8700,512,2029.23,16,4766.19
+2024-02-26,Google Ads,Lead Generation,Image,Infographic C.jpg,5472,183,392.72,3,780.79
+2024-02-26,Google Ads,Website Traffic,Video,Explainer Animation.mov,13359,610,1614.58,22,6489.1
+2024-02-26,Google Ads,Sales Conversion,Image,Infographic C.jpg,19903,364,1330.28,12,3451.28
+2024-02-26,Meta Ads,Brand Awareness,Video,Behind the Scenes.mp4,10711,634,1302.7,7,2039.37
+2024-02-26,Meta Ads,Lead Generation,Video,Testimonial Reel.mp4,19274,1111,1811.5,24,5969.28
+2024-02-26,Meta Ads,Website Traffic,Video,Testimonial Reel.mp4,11563,515,706.91,19,4124.53
+2024-02-26,Meta Ads,Sales Conversion,Image,Lifestyle B.png,5284,78,79.53,2,545.45
+2024-02-26,LinkedIn Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",6654,232,1554.19,4,664.24
+2024-02-26,LinkedIn Ads,Lead Generation,Video,Behind the Scenes.mp4,8197,270,1945.87,5,1128.04
+2024-02-26,LinkedIn Ads,Website Traffic,Image,Lifestyle B.png,19244,753,5337.14,9,2236.65
+2024-02-26,LinkedIn Ads,Sales Conversion,Video,Testimonial Reel.mp4,13386,407,2564.19,6,664.27
+2024-02-27,Google Ads,Brand Awareness,Text,"""Free Demo"" Ad",9940,590,1626.67,20,5142.42
+2024-02-27,Google Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",16465,826,2648.56,40,11910.71
+2024-02-27,Google Ads,Website Traffic,Image,Product Showcase A.jpg,19710,303,575.68,11,1694.83
+2024-02-27,Google Ads,Sales Conversion,Text,"""Case Study"" Ad",16012,244,822.56,6,1381.96
+2024-02-27,Meta Ads,Brand Awareness,Text,"""Case Study"" Ad",7858,467,844.52,18,2205.26
+2024-02-27,Meta Ads,Lead Generation,Video,Testimonial Reel.mp4,14359,233,287.15,7,1088.31
+2024-02-27,Meta Ads,Website Traffic,Video,Explainer Animation.mov,10394,349,583.06,7,2013.41
+2024-02-27,Meta Ads,Sales Conversion,Text,"""Case Study"" Ad",19520,577,933.57,22,1789.1
+2024-02-27,LinkedIn Ads,Brand Awareness,Text,"""Case Study"" Ad",18955,414,1840.25,6,620.2
+2024-02-27,LinkedIn Ads,Lead Generation,Image,Infographic C.jpg,9858,562,3577.23,8,1634.41
+2024-02-27,LinkedIn Ads,Website Traffic,Video,Explainer Animation.mov,18245,266,1339.45,1,165.01
+2024-02-27,LinkedIn Ads,Sales Conversion,Image,Infographic C.jpg,7719,160,688.6,2,391.5
+2024-02-28,Google Ads,Brand Awareness,Text,"""Free Demo"" Ad",18595,847,1551.94,23,3214.97
+2024-02-28,Google Ads,Lead Generation,Image,Product Showcase A.jpg,17981,602,1707.65,15,2023.3
+2024-02-28,Google Ads,Website Traffic,Video,Behind the Scenes.mp4,5160,71,197.44,2,380.98
+2024-02-28,Google Ads,Sales Conversion,Image,Product Showcase A.jpg,9231,353,654.68,14,1675.7
+2024-02-28,Meta Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",10670,604,1050.21,13,3047.66
+2024-02-28,Meta Ads,Lead Generation,Image,Lifestyle B.png,17747,993,1762.55,28,7819.16
+2024-02-28,Meta Ads,Website Traffic,Video,Behind the Scenes.mp4,10744,375,459.79,14,2809.55
+2024-02-28,Meta Ads,Sales Conversion,Image,Infographic C.jpg,18754,758,1654.12,17,960.16
+2024-02-28,LinkedIn Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",19656,400,1850.96,4,995.84
+2024-02-28,LinkedIn Ads,Lead Generation,Image,Lifestyle B.png,8044,430,2255.88,7,429.59
+2024-02-28,LinkedIn Ads,Website Traffic,Text,"""Free Demo"" Ad",11004,511,3571.29,8,1113.65
+2024-02-28,LinkedIn Ads,Sales Conversion,Image,Lifestyle B.png,6620,255,1737.07,3,753.14
+2024-02-29,Google Ads,Brand Awareness,Text,"""Case Study"" Ad",13868,730,1441.84,30,5335.01
+2024-02-29,Google Ads,Lead Generation,Image,Lifestyle B.png,16714,261,1021.07,6,564.51
+2024-02-29,Google Ads,Website Traffic,Image,Infographic C.jpg,15000,838,2810.6,27,6183.17
+2024-02-29,Google Ads,Sales Conversion,Text,"""Free Demo"" Ad",13188,198,640.85,9,2382.82
+2024-02-29,Meta Ads,Brand Awareness,Video,Explainer Animation.mov,18852,273,238.29,4,401.55
+2024-02-29,Meta Ads,Lead Generation,Image,Infographic C.jpg,12166,229,288.65,7,517.66
+2024-02-29,Meta Ads,Website Traffic,Image,Lifestyle B.png,5603,125,204.28,2,174.4
+2024-02-29,Meta Ads,Sales Conversion,Video,Testimonial Reel.mp4,14965,540,688.93,11,866.98
+2024-02-29,LinkedIn Ads,Brand Awareness,Image,Product Showcase A.jpg,6428,273,1181.81,1,149.77
+2024-02-29,LinkedIn Ads,Lead Generation,Image,Infographic C.jpg,8475,335,2042.27,5,336.31
+2024-02-29,LinkedIn Ads,Website Traffic,Image,Infographic C.jpg,6341,146,656.56,1,188.53
+2024-02-29,LinkedIn Ads,Sales Conversion,Video,Behind the Scenes.mp4,16847,192,984.91,1,202.98
+2024-03-01,Google Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",8142,212,329.69,5,833.85
+2024-03-01,Google Ads,Lead Generation,Text,"""Free Demo"" Ad",10112,389,1313.7,10,2790.32
+2024-03-01,Google Ads,Website Traffic,Text,"""Free Demo"" Ad",7710,143,502.17,3,498.8
+2024-03-01,Google Ads,Sales Conversion,Text,"""Free Demo"" Ad",11278,218,366.7,9,1727.9
+2024-03-01,Meta Ads,Brand Awareness,Video,Explainer Animation.mov,18244,661,753.45,13,1679.09
+2024-03-01,Meta Ads,Lead Generation,Video,Testimonial Reel.mp4,7879,284,559.61,4,954.15
+2024-03-01,Meta Ads,Website Traffic,Video,Behind the Scenes.mp4,9936,419,532.05,9,2516.93
+2024-03-01,Meta Ads,Sales Conversion,Image,Lifestyle B.png,12168,300,469.71,4,599.33
+2024-03-01,LinkedIn Ads,Brand Awareness,Image,Lifestyle B.png,7705,134,986.01,0,0.0
+2024-03-01,LinkedIn Ads,Lead Generation,Video,Testimonial Reel.mp4,5474,111,585.95,0,0.0
+2024-03-01,LinkedIn Ads,Website Traffic,Image,Product Showcase A.jpg,16565,604,3854.45,11,2978.2
+2024-03-01,LinkedIn Ads,Sales Conversion,Text,"""Case Study"" Ad",5319,236,1300.34,2,576.53
+2024-03-02,Google Ads,Brand Awareness,Video,Testimonial Reel.mp4,14477,331,972.94,13,3490.18
+2024-03-02,Google Ads,Lead Generation,Text,"""Case Study"" Ad",12689,414,1390.3,11,1765.14
+2024-03-02,Google Ads,Website Traffic,Image,Product Showcase A.jpg,15783,203,738.82,6,1088.15
+2024-03-02,Google Ads,Sales Conversion,Image,Lifestyle B.png,19974,354,538.58,11,875.54
+2024-03-02,Meta Ads,Brand Awareness,Text,"""Free Demo"" Ad",17283,409,423.51,10,1972.69
+2024-03-02,Meta Ads,Lead Generation,Video,Behind the Scenes.mp4,9201,404,906.7,5,866.4
+2024-03-02,Meta Ads,Website Traffic,Video,Explainer Animation.mov,6117,232,258.18,8,2136.87
+2024-03-02,Meta Ads,Sales Conversion,Video,Testimonial Reel.mp4,13825,175,407.23,3,741.85
+2024-03-02,LinkedIn Ads,Brand Awareness,Text,"""Case Study"" Ad",13233,277,1467.45,3,326.44
+2024-03-02,LinkedIn Ads,Lead Generation,Image,Lifestyle B.png,15695,581,3371.56,11,883.68
+2024-03-02,LinkedIn Ads,Website Traffic,Video,Testimonial Reel.mp4,6813,83,532.04,1,145.94
+2024-03-02,LinkedIn Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",16592,276,1997.74,4,1155.28
+2024-03-03,Google Ads,Brand Awareness,Text,"""Case Study"" Ad",12601,392,712.5,10,2678.66
+2024-03-03,Google Ads,Lead Generation,Image,Lifestyle B.png,9199,255,397.74,11,2302.39
+2024-03-03,Google Ads,Website Traffic,Video,Testimonial Reel.mp4,13104,585,1399.83,23,3555.34
+2024-03-03,Google Ads,Sales Conversion,Text,"""Case Study"" Ad",9255,278,703.12,11,1840.56
+2024-03-03,Meta Ads,Brand Awareness,Text,"""Case Study"" Ad",7120,171,339.12,6,657.81
+2024-03-03,Meta Ads,Lead Generation,Text,"""Case Study"" Ad",8777,410,882.63,14,3557.14
+2024-03-03,Meta Ads,Website Traffic,Image,Infographic C.jpg,10827,315,776.21,10,608.9
+2024-03-03,Meta Ads,Sales Conversion,Video,Testimonial Reel.mp4,8038,324,440.98,11,894.31
+2024-03-03,LinkedIn Ads,Brand Awareness,Video,Testimonial Reel.mp4,17281,300,1611.41,2,104.73
+2024-03-03,LinkedIn Ads,Lead Generation,Video,Behind the Scenes.mp4,18772,274,1522.0,3,523.9
+2024-03-03,LinkedIn Ads,Website Traffic,Video,Explainer Animation.mov,16966,716,4952.66,10,1202.58
+2024-03-03,LinkedIn Ads,Sales Conversion,Video,Explainer Animation.mov,17469,759,4040.66,12,2224.28
+2024-03-04,Google Ads,Brand Awareness,Image,Product Showcase A.jpg,18219,540,1360.54,20,1453.21
+2024-03-04,Google Ads,Lead Generation,Video,Explainer Animation.mov,7432,405,1535.26,16,4060.27
+2024-03-04,Google Ads,Website Traffic,Text,"""Case Study"" Ad",18752,227,532.14,10,2136.96
+2024-03-04,Google Ads,Sales Conversion,Text,"""Case Study"" Ad",8349,180,614.49,7,1371.97
+2024-03-04,Meta Ads,Brand Awareness,Text,"""Case Study"" Ad",19318,954,815.86,32,2411.08
+2024-03-04,Meta Ads,Lead Generation,Image,Infographic C.jpg,10855,634,1179.93,15,3993.19
+2024-03-04,Meta Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",10156,572,1383.49,8,1645.68
+2024-03-04,Meta Ads,Sales Conversion,Text,"""Case Study"" Ad",19068,1124,1126.0,19,3262.9
+2024-03-04,LinkedIn Ads,Brand Awareness,Video,Testimonial Reel.mp4,13890,346,1423.44,5,1383.37
+2024-03-04,LinkedIn Ads,Lead Generation,Text,"""Free Demo"" Ad",13432,676,4358.1,5,1120.73
+2024-03-04,LinkedIn Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",18452,245,1018.64,3,583.44
+2024-03-04,LinkedIn Ads,Sales Conversion,Text,"""Free Demo"" Ad",17375,651,2878.82,7,2039.75
+2024-03-05,Google Ads,Brand Awareness,Video,Explainer Animation.mov,10185,224,760.01,10,1213.66
+2024-03-05,Google Ads,Lead Generation,Video,Testimonial Reel.mp4,18135,826,2178.11,31,4313.88
+2024-03-05,Google Ads,Website Traffic,Video,Explainer Animation.mov,11169,237,591.63,9,1788.21
+2024-03-05,Google Ads,Sales Conversion,Text,"""Free Demo"" Ad",7151,413,1644.0,18,4905.7
+2024-03-05,Meta Ads,Brand Awareness,Text,"""Case Study"" Ad",12332,532,931.68,9,2250.04
+2024-03-05,Meta Ads,Lead Generation,Image,Lifestyle B.png,13186,705,602.31,19,4361.0
+2024-03-05,Meta Ads,Website Traffic,Video,Explainer Animation.mov,9011,538,830.17,6,341.38
+2024-03-05,Meta Ads,Sales Conversion,Text,"""Free Demo"" Ad",16943,553,1370.32,8,768.88
+2024-03-05,LinkedIn Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",9854,117,809.45,1,95.7
+2024-03-05,LinkedIn Ads,Lead Generation,Text,"""Case Study"" Ad",13289,139,771.22,1,168.01
+2024-03-05,LinkedIn Ads,Website Traffic,Video,Behind the Scenes.mp4,5100,271,1745.47,2,117.17
+2024-03-05,LinkedIn Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",9273,275,1277.76,4,929.02
+2024-03-06,Google Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",8371,117,313.09,2,497.0
+2024-03-06,Google Ads,Lead Generation,Image,Product Showcase A.jpg,8116,99,211.1,2,369.27
+2024-03-06,Google Ads,Website Traffic,Video,Testimonial Reel.mp4,15350,654,1635.43,28,3540.75
+2024-03-06,Google Ads,Sales Conversion,Image,Product Showcase A.jpg,12413,712,1421.79,15,2532.12
+2024-03-06,Meta Ads,Brand Awareness,Text,"""Case Study"" Ad",8441,270,359.92,7,2096.0
+2024-03-06,Meta Ads,Lead Generation,Text,"""Case Study"" Ad",16365,791,1132.63,22,2978.64
+2024-03-06,Meta Ads,Website Traffic,Image,Product Showcase A.jpg,12718,641,991.21,23,2478.63
+2024-03-06,Meta Ads,Sales Conversion,Text,"""Free Demo"" Ad",15186,406,964.46,10,2232.47
+2024-03-06,LinkedIn Ads,Brand Awareness,Video,Testimonial Reel.mp4,6130,290,1572.72,4,806.22
+2024-03-06,LinkedIn Ads,Lead Generation,Image,Infographic C.jpg,17177,630,3936.41,10,2056.13
+2024-03-06,LinkedIn Ads,Website Traffic,Video,Testimonial Reel.mp4,15526,335,1801.07,3,433.58
+2024-03-06,LinkedIn Ads,Sales Conversion,Video,Explainer Animation.mov,13276,716,5266.11,12,1187.33
+2024-03-07,Google Ads,Brand Awareness,Text,"""Case Study"" Ad",6253,354,885.7,13,2009.83
+2024-03-07,Google Ads,Lead Generation,Video,Behind the Scenes.mp4,10079,425,968.42,13,1257.03
+2024-03-07,Google Ads,Website Traffic,Image,Product Showcase A.jpg,14117,496,1083.34,21,3527.43
+2024-03-07,Google Ads,Sales Conversion,Video,Explainer Animation.mov,7925,451,1347.95,13,2933.07
+2024-03-07,Meta Ads,Brand Awareness,Image,Product Showcase A.jpg,19879,1090,1298.58,35,3920.71
+2024-03-07,Meta Ads,Lead Generation,Video,Explainer Animation.mov,16894,979,803.36,33,7091.68
+2024-03-07,Meta Ads,Website Traffic,Image,Infographic C.jpg,19704,397,751.05,8,664.26
+2024-03-07,Meta Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",17886,378,663.73,6,1269.36
+2024-03-07,LinkedIn Ads,Brand Awareness,Image,Lifestyle B.png,19899,231,1666.71,4,214.16
+2024-03-07,LinkedIn Ads,Lead Generation,Video,Explainer Animation.mov,7772,403,2436.87,4,537.61
+2024-03-07,LinkedIn Ads,Website Traffic,Text,"""Case Study"" Ad",9725,466,2437.84,4,920.25
+2024-03-07,LinkedIn Ads,Sales Conversion,Image,Infographic C.jpg,19598,508,2480.53,7,743.81
+2024-03-08,Google Ads,Brand Awareness,Text,"""Free Demo"" Ad",6930,328,1109.41,10,2364.7
+2024-03-08,Google Ads,Lead Generation,Text,"""Case Study"" Ad",11223,300,1020.59,7,452.59
+2024-03-08,Google Ads,Website Traffic,Image,Infographic C.jpg,14572,198,460.03,7,1126.24
+2024-03-08,Google Ads,Sales Conversion,Video,Testimonial Reel.mp4,6265,342,1036.72,8,810.68
+2024-03-08,Meta Ads,Brand Awareness,Video,Explainer Animation.mov,7871,331,498.68,11,2220.01
+2024-03-08,Meta Ads,Lead Generation,Text,"""Free Demo"" Ad",6813,184,358.65,5,1246.23
+2024-03-08,Meta Ads,Website Traffic,Video,Explainer Animation.mov,13764,434,940.59,10,2350.24
+2024-03-08,Meta Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",14025,495,634.01,9,2109.01
+2024-03-08,LinkedIn Ads,Brand Awareness,Video,Behind the Scenes.mp4,10381,165,797.04,2,230.17
+2024-03-08,LinkedIn Ads,Lead Generation,Video,Testimonial Reel.mp4,7130,151,726.63,1,66.77
+2024-03-08,LinkedIn Ads,Website Traffic,Text,"""Case Study"" Ad",11444,209,1467.45,3,334.25
+2024-03-08,LinkedIn Ads,Sales Conversion,Text,"""Case Study"" Ad",13669,660,4729.68,5,1240.47
+2024-03-09,Google Ads,Brand Awareness,Video,Behind the Scenes.mp4,9308,374,817.19,11,2572.87
+2024-03-09,Google Ads,Lead Generation,Video,Explainer Animation.mov,19119,531,908.76,11,1593.9
+2024-03-09,Google Ads,Website Traffic,Video,Behind the Scenes.mp4,13894,335,1083.28,16,2458.8
+2024-03-09,Google Ads,Sales Conversion,Video,Behind the Scenes.mp4,16747,941,3710.62,30,4868.02
+2024-03-09,Meta Ads,Brand Awareness,Text,"""Case Study"" Ad",8188,134,197.77,4,517.46
+2024-03-09,Meta Ads,Lead Generation,Image,Lifestyle B.png,10841,555,1309.42,15,3545.66
+2024-03-09,Meta Ads,Website Traffic,Video,Behind the Scenes.mp4,9250,233,395.75,2,407.4
+2024-03-09,Meta Ads,Sales Conversion,Text,"""Free Demo"" Ad",18142,923,1396.12,12,1401.75
+2024-03-09,LinkedIn Ads,Brand Awareness,Text,"""Case Study"" Ad",10031,161,965.26,2,593.1
+2024-03-09,LinkedIn Ads,Lead Generation,Image,Product Showcase A.jpg,5089,240,1481.58,1,58.71
+2024-03-09,LinkedIn Ads,Website Traffic,Image,Lifestyle B.png,11555,672,4815.7,9,1975.09
+2024-03-09,LinkedIn Ads,Sales Conversion,Video,Behind the Scenes.mp4,7020,95,474.06,1,106.39
+2024-03-10,Google Ads,Brand Awareness,Video,Explainer Animation.mov,12994,161,492.46,7,1653.75
+2024-03-10,Google Ads,Lead Generation,Video,Behind the Scenes.mp4,12151,580,2270.63,26,2388.21
+2024-03-10,Google Ads,Website Traffic,Image,Infographic C.jpg,8704,345,1139.9,7,445.9
+2024-03-10,Google Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",11269,461,792.21,13,2145.74
+2024-03-10,Meta Ads,Brand Awareness,Image,Lifestyle B.png,15667,434,587.68,11,758.64
+2024-03-10,Meta Ads,Lead Generation,Video,Behind the Scenes.mp4,13059,289,434.01,6,525.79
+2024-03-10,Meta Ads,Website Traffic,Video,Testimonial Reel.mp4,12525,306,608.19,10,1349.82
+2024-03-10,Meta Ads,Sales Conversion,Text,"""Free Demo"" Ad",7921,457,408.53,13,2308.61
+2024-03-10,LinkedIn Ads,Brand Awareness,Image,Infographic C.jpg,8344,334,2028.21,2,141.54
+2024-03-10,LinkedIn Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",11199,451,2388.05,4,938.41
+2024-03-10,LinkedIn Ads,Website Traffic,Video,Behind the Scenes.mp4,10212,417,2685.33,4,334.45
+2024-03-10,LinkedIn Ads,Sales Conversion,Video,Explainer Animation.mov,9780,207,1343.54,1,156.86
+2024-03-11,Google Ads,Brand Awareness,Text,"""Case Study"" Ad",6213,153,276.94,4,603.28
+2024-03-11,Google Ads,Lead Generation,Video,Explainer Animation.mov,5201,113,269.15,5,433.87
+2024-03-11,Google Ads,Website Traffic,Image,Infographic C.jpg,18342,658,1781.52,15,1209.27
+2024-03-11,Google Ads,Sales Conversion,Image,Lifestyle B.png,12168,394,1124.81,14,1745.27
+2024-03-11,Meta Ads,Brand Awareness,Video,Behind the Scenes.mp4,10519,324,363.67,7,768.97
+2024-03-11,Meta Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",9916,313,768.54,5,503.79
+2024-03-11,Meta Ads,Website Traffic,Image,Lifestyle B.png,10268,539,1158.7,8,1821.98
+2024-03-11,Meta Ads,Sales Conversion,Image,Infographic C.jpg,11048,166,375.25,3,203.91
+2024-03-11,LinkedIn Ads,Brand Awareness,Video,Behind the Scenes.mp4,13648,407,2397.5,6,1002.39
+2024-03-11,LinkedIn Ads,Lead Generation,Image,Lifestyle B.png,19334,690,4933.73,7,1548.61
+2024-03-11,LinkedIn Ads,Website Traffic,Image,Lifestyle B.png,9887,476,2741.75,3,786.39
+2024-03-11,LinkedIn Ads,Sales Conversion,Image,Lifestyle B.png,6333,329,1630.36,6,463.84
+2024-03-12,Google Ads,Brand Awareness,Image,Infographic C.jpg,6322,162,305.77,3,396.55
+2024-03-12,Google Ads,Lead Generation,Video,Explainer Animation.mov,15908,236,725.77,11,2848.61
+2024-03-12,Google Ads,Website Traffic,Text,"""Case Study"" Ad",18280,888,1566.33,34,6919.71
+2024-03-12,Google Ads,Sales Conversion,Image,Product Showcase A.jpg,6379,155,352.03,7,1320.47
+2024-03-12,Meta Ads,Brand Awareness,Image,Infographic C.jpg,13618,484,1146.16,13,1919.44
+2024-03-12,Meta Ads,Lead Generation,Image,Infographic C.jpg,6843,193,304.65,5,1072.96
+2024-03-12,Meta Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",19703,1013,2099.31,12,632.98
+2024-03-12,Meta Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",12833,760,998.5,11,1779.54
+2024-03-12,LinkedIn Ads,Brand Awareness,Video,Explainer Animation.mov,15821,705,5100.98,10,1414.49
+2024-03-12,LinkedIn Ads,Lead Generation,Video,Testimonial Reel.mp4,5686,232,1448.49,2,390.51
+2024-03-12,LinkedIn Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",11811,584,4130.7,3,844.62
+2024-03-12,LinkedIn Ads,Sales Conversion,Video,Behind the Scenes.mp4,13597,704,3577.05,8,937.76
+2024-03-13,Google Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",11340,171,471.89,6,1121.89
+2024-03-13,Google Ads,Lead Generation,Text,"""Case Study"" Ad",12790,754,2754.64,18,4608.13
+2024-03-13,Google Ads,Website Traffic,Image,Product Showcase A.jpg,6356,172,640.98,3,623.87
+2024-03-13,Google Ads,Sales Conversion,Image,Product Showcase A.jpg,17010,677,2585.97,15,4303.6
+2024-03-13,Meta Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",12399,493,1005.11,11,2077.49
+2024-03-13,Meta Ads,Lead Generation,Image,Lifestyle B.png,6235,69,95.67,2,597.05
+2024-03-13,Meta Ads,Website Traffic,Text,"""Case Study"" Ad",5542,123,241.93,4,763.17
+2024-03-13,Meta Ads,Sales Conversion,Text,"""Free Demo"" Ad",14582,195,461.2,7,1899.98
+2024-03-13,LinkedIn Ads,Brand Awareness,Video,Testimonial Reel.mp4,19948,295,2181.13,1,189.86
+2024-03-13,LinkedIn Ads,Lead Generation,Text,"""Case Study"" Ad",18840,856,4657.96,12,2868.54
+2024-03-13,LinkedIn Ads,Website Traffic,Image,Infographic C.jpg,15228,449,2178.8,4,1012.56
+2024-03-13,LinkedIn Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",8705,191,1177.17,3,179.38
+2024-03-14,Google Ads,Brand Awareness,Video,Behind the Scenes.mp4,10527,136,465.2,6,842.52
+2024-03-14,Google Ads,Lead Generation,Video,Behind the Scenes.mp4,9352,302,941.41,9,972.38
+2024-03-14,Google Ads,Website Traffic,Video,Explainer Animation.mov,16380,861,1766.59,22,5817.77
+2024-03-14,Google Ads,Sales Conversion,Video,Behind the Scenes.mp4,12767,420,1459.33,8,1116.41
+2024-03-14,Meta Ads,Brand Awareness,Video,Explainer Animation.mov,19223,348,444.56,3,621.27
+2024-03-14,Meta Ads,Lead Generation,Video,Explainer Animation.mov,12849,151,372.91,2,424.77
+2024-03-14,Meta Ads,Website Traffic,Image,Lifestyle B.png,7360,422,699.04,6,558.69
+2024-03-14,Meta Ads,Sales Conversion,Image,Infographic C.jpg,8128,473,787.77,11,1127.76
+2024-03-14,LinkedIn Ads,Brand Awareness,Video,Testimonial Reel.mp4,10638,543,2397.77,6,307.68
+2024-03-14,LinkedIn Ads,Lead Generation,Image,Lifestyle B.png,7524,159,886.7,2,296.83
+2024-03-14,LinkedIn Ads,Website Traffic,Image,Lifestyle B.png,11538,280,1727.29,1,264.19
+2024-03-14,LinkedIn Ads,Sales Conversion,Image,Product Showcase A.jpg,17188,459,2556.6,3,323.36
+2024-03-15,Google Ads,Brand Awareness,Text,"""Case Study"" Ad",12540,147,260.44,5,803.95
+2024-03-15,Google Ads,Lead Generation,Image,Product Showcase A.jpg,9976,589,1014.9,19,5337.65
+2024-03-15,Google Ads,Website Traffic,Text,"""Case Study"" Ad",7139,208,500.27,9,1888.1
+2024-03-15,Google Ads,Sales Conversion,Video,Testimonial Reel.mp4,7401,382,1446.75,14,1932.43
+2024-03-15,Meta Ads,Brand Awareness,Text,"""Free Demo"" Ad",7121,129,284.49,2,474.66
+2024-03-15,Meta Ads,Lead Generation,Text,"""Free Demo"" Ad",10673,620,577.48,12,658.87
+2024-03-15,Meta Ads,Website Traffic,Image,Infographic C.jpg,9117,308,326.09,8,2137.77
+2024-03-15,Meta Ads,Sales Conversion,Image,Lifestyle B.png,8440,358,886.6,9,998.48
+2024-03-15,LinkedIn Ads,Brand Awareness,Video,Explainer Animation.mov,16718,548,2285.53,7,1313.56
+2024-03-15,LinkedIn Ads,Lead Generation,Video,Testimonial Reel.mp4,17957,500,2370.01,8,630.43
+2024-03-15,LinkedIn Ads,Website Traffic,Image,Infographic C.jpg,12682,406,1992.2,7,605.36
+2024-03-15,LinkedIn Ads,Sales Conversion,Image,Lifestyle B.png,11965,365,2196.96,2,535.74
+2024-03-16,Google Ads,Brand Awareness,Video,Explainer Animation.mov,15842,647,2340.06,17,2673.6
+2024-03-16,Google Ads,Lead Generation,Video,Behind the Scenes.mp4,5113,276,611.43,9,1190.46
+2024-03-16,Google Ads,Website Traffic,Image,Lifestyle B.png,14960,874,3314.2,31,7424.12
+2024-03-16,Google Ads,Sales Conversion,Video,Behind the Scenes.mp4,19139,367,1185.25,8,918.79
+2024-03-16,Meta Ads,Brand Awareness,Image,Product Showcase A.jpg,5346,158,168.81,4,1045.72
+2024-03-16,Meta Ads,Lead Generation,Image,Infographic C.jpg,5780,298,659.68,10,521.82
+2024-03-16,Meta Ads,Website Traffic,Video,Testimonial Reel.mp4,17164,1016,1665.32,20,1445.85
+2024-03-16,Meta Ads,Sales Conversion,Video,Explainer Animation.mov,6596,254,310.5,9,494.19
+2024-03-16,LinkedIn Ads,Brand Awareness,Video,Explainer Animation.mov,7625,258,1905.01,2,257.31
+2024-03-16,LinkedIn Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",10298,177,951.02,2,107.33
+2024-03-16,LinkedIn Ads,Website Traffic,Text,"""Case Study"" Ad",14657,323,2037.89,3,327.71
+2024-03-16,LinkedIn Ads,Sales Conversion,Image,Infographic C.jpg,7422,237,970.91,2,313.52
+2024-03-17,Google Ads,Brand Awareness,Video,Explainer Animation.mov,13554,563,1213.77,26,2814.13
+2024-03-17,Google Ads,Lead Generation,Text,"""Free Demo"" Ad",14456,477,1762.19,13,2173.76
+2024-03-17,Google Ads,Website Traffic,Text,"""Case Study"" Ad",14877,496,1165.65,24,5168.92
+2024-03-17,Google Ads,Sales Conversion,Image,Product Showcase A.jpg,9353,261,658.47,8,1056.4
+2024-03-17,Meta Ads,Brand Awareness,Image,Lifestyle B.png,18407,302,357.93,3,401.48
+2024-03-17,Meta Ads,Lead Generation,Video,Testimonial Reel.mp4,7049,403,769.93,13,2055.25
+2024-03-17,Meta Ads,Website Traffic,Image,Product Showcase A.jpg,5800,305,298.47,5,1311.59
+2024-03-17,Meta Ads,Sales Conversion,Video,Behind the Scenes.mp4,10918,602,1319.4,20,1458.48
+2024-03-17,LinkedIn Ads,Brand Awareness,Video,Testimonial Reel.mp4,15931,389,2855.93,2,489.31
+2024-03-17,LinkedIn Ads,Lead Generation,Image,Infographic C.jpg,17397,687,3750.07,10,1113.84
+2024-03-17,LinkedIn Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",5820,313,1632.47,4,912.5
+2024-03-17,LinkedIn Ads,Sales Conversion,Text,"""Case Study"" Ad",8197,363,1463.09,5,643.91
+2024-03-18,Google Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",10806,214,823.77,7,1681.07
+2024-03-18,Google Ads,Lead Generation,Video,Behind the Scenes.mp4,5311,90,194.54,1,152.51
+2024-03-18,Google Ads,Website Traffic,Video,Testimonial Reel.mp4,5578,162,380.61,6,703.69
+2024-03-18,Google Ads,Sales Conversion,Text,"""Case Study"" Ad",10916,200,677.71,4,863.76
+2024-03-18,Meta Ads,Brand Awareness,Text,"""Free Demo"" Ad",17507,739,1823.5,14,890.22
+2024-03-18,Meta Ads,Lead Generation,Image,Product Showcase A.jpg,7884,465,389.02,13,3840.21
+2024-03-18,Meta Ads,Website Traffic,Video,Behind the Scenes.mp4,19792,1065,2425.54,22,3593.16
+2024-03-18,Meta Ads,Sales Conversion,Text,"""Free Demo"" Ad",13258,494,1127.26,10,670.14
+2024-03-18,LinkedIn Ads,Brand Awareness,Video,Explainer Animation.mov,8443,377,2265.19,7,1507.26
+2024-03-18,LinkedIn Ads,Lead Generation,Video,Testimonial Reel.mp4,10999,212,986.1,2,419.98
+2024-03-18,LinkedIn Ads,Website Traffic,Video,Testimonial Reel.mp4,16627,837,5801.93,6,1184.65
+2024-03-18,LinkedIn Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",18291,380,1766.21,4,894.1
+2024-03-19,Google Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",18215,998,3437.22,22,2534.46
+2024-03-19,Google Ads,Lead Generation,Text,"""Free Demo"" Ad",5044,214,430.38,5,490.21
+2024-03-19,Google Ads,Website Traffic,Image,Product Showcase A.jpg,6728,170,546.84,8,2116.89
+2024-03-19,Google Ads,Sales Conversion,Text,"""Case Study"" Ad",18105,306,1101.62,9,1033.58
+2024-03-19,Meta Ads,Brand Awareness,Video,Testimonial Reel.mp4,18285,1044,2188.32,31,8937.5
+2024-03-19,Meta Ads,Lead Generation,Image,Infographic C.jpg,9848,493,647.3,8,718.62
+2024-03-19,Meta Ads,Website Traffic,Video,Behind the Scenes.mp4,7148,252,448.84,8,2254.38
+2024-03-19,Meta Ads,Sales Conversion,Video,Testimonial Reel.mp4,19254,875,1460.22,27,7519.29
+2024-03-19,LinkedIn Ads,Brand Awareness,Video,Explainer Animation.mov,14803,608,4031.96,6,1247.35
+2024-03-19,LinkedIn Ads,Lead Generation,Image,Lifestyle B.png,19475,876,5511.95,12,2821.67
+2024-03-19,LinkedIn Ads,Website Traffic,Image,Lifestyle B.png,14228,535,3134.91,5,1468.32
+2024-03-19,LinkedIn Ads,Sales Conversion,Image,Infographic C.jpg,15188,353,2459.38,4,476.14
+2024-03-20,Google Ads,Brand Awareness,Image,Lifestyle B.png,16458,418,1295.93,20,2830.85
+2024-03-20,Google Ads,Lead Generation,Text,"""Case Study"" Ad",11400,225,809.37,7,717.72
+2024-03-20,Google Ads,Website Traffic,Video,Behind the Scenes.mp4,18429,735,1575.12,18,3965.91
+2024-03-20,Google Ads,Sales Conversion,Image,Product Showcase A.jpg,15976,756,1472.07,32,4757.81
+2024-03-20,Meta Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",11775,134,165.38,2,448.72
+2024-03-20,Meta Ads,Lead Generation,Image,Infographic C.jpg,9280,204,358.18,5,940.65
+2024-03-20,Meta Ads,Website Traffic,Video,Behind the Scenes.mp4,17500,531,956.96,6,1250.3
+2024-03-20,Meta Ads,Sales Conversion,Text,"""Case Study"" Ad",11735,513,524.43,6,345.57
+2024-03-20,LinkedIn Ads,Brand Awareness,Video,Explainer Animation.mov,12463,608,3704.81,3,796.15
+2024-03-20,LinkedIn Ads,Lead Generation,Text,"""Free Demo"" Ad",14266,524,2466.78,4,418.3
+2024-03-20,LinkedIn Ads,Website Traffic,Text,"""Free Demo"" Ad",16783,364,2385.71,4,1109.1
+2024-03-20,LinkedIn Ads,Sales Conversion,Text,"""Case Study"" Ad",7324,110,558.43,1,280.46
+2024-03-21,Google Ads,Brand Awareness,Text,"""Free Demo"" Ad",7210,275,1042.71,10,2386.71
+2024-03-21,Google Ads,Lead Generation,Text,"""Case Study"" Ad",16798,651,1019.33,18,5046.35
+2024-03-21,Google Ads,Website Traffic,Image,Product Showcase A.jpg,8071,309,494.62,14,4172.48
+2024-03-21,Google Ads,Sales Conversion,Video,Explainer Animation.mov,7826,206,686.95,4,622.17
+2024-03-21,Meta Ads,Brand Awareness,Text,"""Case Study"" Ad",18170,660,1356.39,12,2741.07
+2024-03-21,Meta Ads,Lead Generation,Image,Infographic C.jpg,10216,212,461.2,5,1456.36
+2024-03-21,Meta Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",12773,540,1262.55,9,1166.56
+2024-03-21,Meta Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",6784,214,311.93,5,503.6
+2024-03-21,LinkedIn Ads,Brand Awareness,Text,"""Case Study"" Ad",11095,449,2781.51,2,564.81
+2024-03-21,LinkedIn Ads,Lead Generation,Video,Testimonial Reel.mp4,6462,350,1943.15,5,689.48
+2024-03-21,LinkedIn Ads,Website Traffic,Image,Product Showcase A.jpg,14949,158,704.19,2,508.99
+2024-03-21,LinkedIn Ads,Sales Conversion,Text,"""Free Demo"" Ad",18672,256,1671.47,4,650.4
+2024-03-22,Google Ads,Brand Awareness,Video,Explainer Animation.mov,7958,124,486.26,4,310.96
+2024-03-22,Google Ads,Lead Generation,Text,"""Free Demo"" Ad",14774,219,677.83,5,1426.67
+2024-03-22,Google Ads,Website Traffic,Video,Testimonial Reel.mp4,9585,433,1440.6,12,931.2
+2024-03-22,Google Ads,Sales Conversion,Image,Product Showcase A.jpg,9620,379,1156.19,10,2157.12
+2024-03-22,Meta Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",8127,333,350.12,11,2030.88
+2024-03-22,Meta Ads,Lead Generation,Text,"""Case Study"" Ad",18580,780,924.39,18,4565.54
+2024-03-22,Meta Ads,Website Traffic,Text,"""Case Study"" Ad",7667,334,320.22,7,1044.41
+2024-03-22,Meta Ads,Sales Conversion,Image,Lifestyle B.png,13176,162,187.09,3,457.26
+2024-03-22,LinkedIn Ads,Brand Awareness,Video,Explainer Animation.mov,17122,619,3701.46,9,822.03
+2024-03-22,LinkedIn Ads,Lead Generation,Video,Testimonial Reel.mp4,11713,464,2147.55,7,882.07
+2024-03-22,LinkedIn Ads,Website Traffic,Image,Product Showcase A.jpg,16427,608,2522.23,7,1815.49
+2024-03-22,LinkedIn Ads,Sales Conversion,Video,Testimonial Reel.mp4,5551,214,1137.85,1,179.19
+2024-03-23,Google Ads,Brand Awareness,Image,Infographic C.jpg,5269,215,611.16,7,493.24
+2024-03-23,Google Ads,Lead Generation,Text,"""Case Study"" Ad",7253,359,1169.41,12,2518.98
+2024-03-23,Google Ads,Website Traffic,Video,Testimonial Reel.mp4,19430,1033,4074.93,50,10201.61
+2024-03-23,Google Ads,Sales Conversion,Text,"""Free Demo"" Ad",18486,222,517.43,7,1384.94
+2024-03-23,Meta Ads,Brand Awareness,Video,Testimonial Reel.mp4,8725,128,310.68,2,490.74
+2024-03-23,Meta Ads,Lead Generation,Video,Testimonial Reel.mp4,14306,194,348.41,5,396.44
+2024-03-23,Meta Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",18794,966,1936.44,22,3593.89
+2024-03-23,Meta Ads,Sales Conversion,Text,"""Case Study"" Ad",11981,369,578.77,10,904.8
+2024-03-23,LinkedIn Ads,Brand Awareness,Text,"""Case Study"" Ad",12617,137,869.48,0,0.0
+2024-03-23,LinkedIn Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",8679,161,713.57,3,439.2
+2024-03-23,LinkedIn Ads,Website Traffic,Video,Behind the Scenes.mp4,10144,565,2618.96,4,512.03
+2024-03-23,LinkedIn Ads,Sales Conversion,Text,"""Case Study"" Ad",8384,340,1494.69,6,663.34
+2024-03-24,Google Ads,Brand Awareness,Video,Testimonial Reel.mp4,9313,336,1216.85,12,700.61
+2024-03-24,Google Ads,Lead Generation,Image,Infographic C.jpg,17634,293,873.51,13,2205.86
+2024-03-24,Google Ads,Website Traffic,Text,"""Case Study"" Ad",18315,863,1331.23,35,8630.69
+2024-03-24,Google Ads,Sales Conversion,Video,Behind the Scenes.mp4,5495,201,548.74,4,820.98
+2024-03-24,Meta Ads,Brand Awareness,Video,Testimonial Reel.mp4,13311,272,363.45,3,320.07
+2024-03-24,Meta Ads,Lead Generation,Text,"""Free Demo"" Ad",13269,510,1204.35,6,872.41
+2024-03-24,Meta Ads,Website Traffic,Text,"""Case Study"" Ad",15506,341,424.03,10,1832.53
+2024-03-24,Meta Ads,Sales Conversion,Text,"""Case Study"" Ad",11669,695,1579.57,21,6013.22
+2024-03-24,LinkedIn Ads,Brand Awareness,Image,Infographic C.jpg,12633,586,3074.63,5,505.94
+2024-03-24,LinkedIn Ads,Lead Generation,Video,Testimonial Reel.mp4,8144,299,1308.43,3,821.25
+2024-03-24,LinkedIn Ads,Website Traffic,Image,Lifestyle B.png,13591,464,3141.94,7,1153.74
+2024-03-24,LinkedIn Ads,Sales Conversion,Image,Product Showcase A.jpg,6210,112,739.18,1,273.33
+2024-03-25,Google Ads,Brand Awareness,Image,Infographic C.jpg,13624,510,1275.4,10,506.28
+2024-03-25,Google Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",14882,621,1776.43,24,1509.26
+2024-03-25,Google Ads,Website Traffic,Image,Infographic C.jpg,17244,978,3797.62,27,5017.9
+2024-03-25,Google Ads,Sales Conversion,Text,"""Case Study"" Ad",6072,70,152.78,1,73.28
+2024-03-25,Meta Ads,Brand Awareness,Video,Explainer Animation.mov,16464,596,639.04,13,2949.52
+2024-03-25,Meta Ads,Lead Generation,Text,"""Case Study"" Ad",7261,85,184.61,3,620.52
+2024-03-25,Meta Ads,Website Traffic,Video,Explainer Animation.mov,5549,168,317.89,4,397.13
+2024-03-25,Meta Ads,Sales Conversion,Text,"""Limited Time Offer"" Ad",12905,622,837.93,7,1522.22
+2024-03-25,LinkedIn Ads,Brand Awareness,Image,Lifestyle B.png,7487,82,422.15,1,129.55
+2024-03-25,LinkedIn Ads,Lead Generation,Image,Infographic C.jpg,13440,488,2887.23,6,1373.96
+2024-03-25,LinkedIn Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",9534,553,3636.36,8,434.5
+2024-03-25,LinkedIn Ads,Sales Conversion,Text,"""Case Study"" Ad",5783,127,588.82,1,237.44
+2024-03-26,Google Ads,Brand Awareness,Video,Testimonial Reel.mp4,18593,928,3207.96,33,8190.55
+2024-03-26,Google Ads,Lead Generation,Image,Infographic C.jpg,15446,166,633.4,6,1778.55
+2024-03-26,Google Ads,Website Traffic,Image,Infographic C.jpg,17568,283,524.22,7,1863.11
+2024-03-26,Google Ads,Sales Conversion,Video,Explainer Animation.mov,5461,112,219.77,2,244.46
+2024-03-26,Meta Ads,Brand Awareness,Text,"""Free Demo"" Ad",14237,285,299.96,11,591.84
+2024-03-26,Meta Ads,Lead Generation,Video,Explainer Animation.mov,10966,209,521.46,7,793.58
+2024-03-26,Meta Ads,Website Traffic,Image,Infographic C.jpg,5107,165,401.95,4,1199.13
+2024-03-26,Meta Ads,Sales Conversion,Video,Testimonial Reel.mp4,8250,288,591.23,10,1990.67
+2024-03-26,LinkedIn Ads,Brand Awareness,Video,Behind the Scenes.mp4,12940,191,1117.26,2,573.67
+2024-03-26,LinkedIn Ads,Lead Generation,Video,Explainer Animation.mov,11573,355,2636.02,3,259.64
+2024-03-26,LinkedIn Ads,Website Traffic,Video,Behind the Scenes.mp4,18665,1048,6799.24,11,1573.17
+2024-03-26,LinkedIn Ads,Sales Conversion,Image,Infographic C.jpg,14858,750,3496.55,7,535.05
+2024-03-27,Google Ads,Brand Awareness,Image,Lifestyle B.png,12076,149,518.09,7,1314.78
+2024-03-27,Google Ads,Lead Generation,Video,Behind the Scenes.mp4,8794,321,1085.23,7,640.15
+2024-03-27,Google Ads,Website Traffic,Video,Testimonial Reel.mp4,13106,524,852.71,23,2450.48
+2024-03-27,Google Ads,Sales Conversion,Video,Behind the Scenes.mp4,7647,386,1303.78,10,1179.62
+2024-03-27,Meta Ads,Brand Awareness,Image,Infographic C.jpg,16096,582,698.81,16,2730.88
+2024-03-27,Meta Ads,Lead Generation,Image,Infographic C.jpg,11368,388,403.47,5,604.57
+2024-03-27,Meta Ads,Website Traffic,Text,"""Limited Time Offer"" Ad",8177,112,154.65,2,478.04
+2024-03-27,Meta Ads,Sales Conversion,Image,Product Showcase A.jpg,10985,622,873.14,23,5345.29
+2024-03-27,LinkedIn Ads,Brand Awareness,Image,Infographic C.jpg,10063,171,972.06,1,170.16
+2024-03-27,LinkedIn Ads,Lead Generation,Image,Lifestyle B.png,16002,617,3851.94,10,2417.93
+2024-03-27,LinkedIn Ads,Website Traffic,Text,"""Case Study"" Ad",6113,352,2464.84,1,110.81
+2024-03-27,LinkedIn Ads,Sales Conversion,Image,Lifestyle B.png,10788,422,1841.79,2,370.24
+2024-03-28,Google Ads,Brand Awareness,Video,Behind the Scenes.mp4,16615,201,775.87,6,663.3
+2024-03-28,Google Ads,Lead Generation,Text,"""Limited Time Offer"" Ad",10414,553,1683.17,19,1138.31
+2024-03-28,Google Ads,Website Traffic,Image,Product Showcase A.jpg,8958,497,1119.04,19,4780.16
+2024-03-28,Google Ads,Sales Conversion,Video,Testimonial Reel.mp4,13830,196,329.44,6,597.56
+2024-03-28,Meta Ads,Brand Awareness,Image,Infographic C.jpg,15107,308,739.68,11,1332.77
+2024-03-28,Meta Ads,Lead Generation,Image,Product Showcase A.jpg,11705,320,541.34,4,717.61
+2024-03-28,Meta Ads,Website Traffic,Text,"""Case Study"" Ad",14531,599,799.12,20,2666.01
+2024-03-28,Meta Ads,Sales Conversion,Video,Explainer Animation.mov,6560,160,374.28,2,174.01
+2024-03-28,LinkedIn Ads,Brand Awareness,Text,"""Limited Time Offer"" Ad",12601,429,2305.03,5,322.58
+2024-03-28,LinkedIn Ads,Lead Generation,Image,Lifestyle B.png,6469,217,1619.74,4,254.5
+2024-03-28,LinkedIn Ads,Website Traffic,Image,Lifestyle B.png,8149,458,2664.88,4,717.1
+2024-03-28,LinkedIn Ads,Sales Conversion,Video,Behind the Scenes.mp4,13539,732,4131.27,5,631.9
+2024-03-29,Google Ads,Brand Awareness,Text,"""Free Demo"" Ad",16186,354,811.66,10,881.3
+2024-03-29,Google Ads,Lead Generation,Image,Lifestyle B.png,10527,321,1023.2,11,3107.01
+2024-03-29,Google Ads,Website Traffic,Image,Lifestyle B.png,18236,911,2490.53,28,7373.89
+2024-03-29,Google Ads,Sales Conversion,Image,Product Showcase A.jpg,10730,186,457.64,6,878.78
+2024-03-29,Meta Ads,Brand Awareness,Video,Testimonial Reel.mp4,12018,290,643.13,3,776.92
+2024-03-29,Meta Ads,Lead Generation,Video,Explainer Animation.mov,17926,240,496.72,8,1128.99
+2024-03-29,Meta Ads,Website Traffic,Text,"""Case Study"" Ad",18414,940,1274.45,18,971.64
+2024-03-29,Meta Ads,Sales Conversion,Video,Testimonial Reel.mp4,9010,460,949.49,6,1740.5
+2024-03-29,LinkedIn Ads,Brand Awareness,Text,"""Free Demo"" Ad",11946,670,4219.28,6,513.5
+2024-03-29,LinkedIn Ads,Lead Generation,Text,"""Free Demo"" Ad",14084,828,4060.58,9,481.15
+2024-03-29,LinkedIn Ads,Website Traffic,Text,"""Free Demo"" Ad",8927,351,1422.05,5,1004.46
+2024-03-29,LinkedIn Ads,Sales Conversion,Text,"""Case Study"" Ad",17428,604,2608.58,6,1409.85
+2024-03-30,Google Ads,Brand Awareness,Text,"""Free Demo"" Ad",5987,304,947.43,12,1039.79
+2024-03-30,Google Ads,Lead Generation,Text,"""Case Study"" Ad",19979,297,901.84,12,2444.84
+2024-03-30,Google Ads,Website Traffic,Image,Lifestyle B.png,16513,773,3010.73,20,1195.51
+2024-03-30,Google Ads,Sales Conversion,Text,"""Case Study"" Ad",9574,261,708.96,6,1521.55
+2024-03-30,Meta Ads,Brand Awareness,Image,Infographic C.jpg,12906,204,255.43,5,375.86
+2024-03-30,Meta Ads,Lead Generation,Text,"""Case Study"" Ad",19221,1068,2249.67,22,2255.68
+2024-03-30,Meta Ads,Website Traffic,Video,Behind the Scenes.mp4,16275,728,993.5,27,7248.35
+2024-03-30,Meta Ads,Sales Conversion,Image,Infographic C.jpg,6417,330,278.45,3,255.75
+2024-03-30,LinkedIn Ads,Brand Awareness,Video,Explainer Animation.mov,13353,369,1569.85,3,585.63
+2024-03-30,LinkedIn Ads,Lead Generation,Image,Lifestyle B.png,12881,665,4214.87,12,2591.67
+2024-03-30,LinkedIn Ads,Website Traffic,Video,Explainer Animation.mov,14020,277,1468.29,3,491.6
+2024-03-30,LinkedIn Ads,Sales Conversion,Video,Explainer Animation.mov,13944,824,5837.56,12,2854.62
