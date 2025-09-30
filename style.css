@@ -1,39 +1,59 @@
 /* style.css */
 
-/* --- GENERAL STYLING & BORDERS --- */
+/* --- GENERAL STYLING & THEME OVERRIDE --- */
+body {
+    background-color: #2E2E2E; /* Ensures background color is consistent */
+}
 
 /* Add rounded corners to the main app container and sidebar */
 div[data-testid="stAppViewContainer"], div[data-testid="stSidebar"] {
     border-radius: 15px;
 }
 
-/* --- WIDGET STYLING --- */
+/* --- NEW: ENTERPRISE CARD CONTAINER STYLE --- */
+/* This is the core of our new enterprise look. We will wrap sections in divs with this class. */
+.card {
+    background-color: #333333;      /* A slightly lighter shade for contrast */
+    border: 1px solid #4A4A4A;      /* A subtle border */
+    border-radius: 15px;            /* Consistent rounded corners */
+    padding: 25px;                  /* Inner spacing */
+    margin-bottom: 20px;            /* Space between cards */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* A soft shadow for a "lifting" effect */
+}
 
-/* Add rounded corners and a slight border to all widgets */
+/* --- ENHANCED METRIC CARD STYLING --- */
+/* We'll make the individual KPI metrics pop even more. */
+div[data-testid="stMetric"] {
+    background-color: #404040;
+    border: 1px solid #555555;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+/* --- TYPOGRAPHY & HEADERS --- */
+/* Give subheaders a bit more style and spacing */
+h3 {
+    text-transform: uppercase; /* e.g., "Revenue Over Time" -> "REVENUE OVER TIME" */
+    font-size: 1.1rem !important;
+    color: #a0a0a0;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #4A4A4A;
+    padding-bottom: 8px;
+}
+
+/* --- WIDGET STYLING --- */
 div[data-testid*="stWidget"] > div {
     border-radius: 0.5rem;
 }
 
-/* Style for metric cards to give them a modern, "card" look */
-div[data-testid="stMetric"] {
-    background-color: #333333; /* A slightly lighter shade than the main background */
-    border: 1px solid #4A4A4A; /* Matches the secondary background for a subtle outline */
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
-}
-
 /* --- CHART & DATAFRAME STYLING --- */
-
-/* Add rounded corners to Plotly charts and dataframes */
 div[data-testid="stPlotlyChart"], div[data-testid="stDataFrame"] {
     border-radius: 10px;
-    overflow: hidden; /* Ensures the background of the chart respects the border radius */
+    overflow: hidden;
 }
 
 /* --- BUTTONS --- */
-
-/* Custom styling for buttons for a more integrated feel */
 .stButton>button {
     border: 2px solid #F5F3E9;
     background-color: transparent;
@@ -41,25 +61,17 @@ div[data-testid="stPlotlyChart"], div[data-testid="stDataFrame"] {
     border-radius: 0.5rem;
     padding: 10px 20px;
 }
-
 .stButton>button:hover {
     border-color: #FFFFFF;
     background-color: #F5F3E9;
     color: #2E2E2E;
 }
 
-/* --- FIX for Multiselect Readability (Updated & More Specific) --- */
-
-/* This selector specifically targets the text inside the selected "pills" */
+/* --- FIX for Multiselect Readability --- */
 [data-testid="stMultiSelect"] [data-baseweb="tag"] span {
-    /* Change text color to our dark brand color for high contrast */
     color: #2E2E2E !important;
-    /* Make font slightly bolder to improve readability */
     font-weight: 600 !important;
 }
-
-/* This selector targets the small 'x' close icon inside the pills */
 [data-testid="stMultiSelect"] [data-baseweb="tag"] svg {
-    /* Change the icon color to our dark brand color to match the text */
     fill: #2E2E2E !important;
 }
