@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 
 # --- PAGE CONFIGURATION ---
 st.set_page_config(
-    page_title="InnovateGear Sales Dashboard",
+    page_title="Sales Dashboard",
     page_icon="🚀",
     layout="wide",
 )
@@ -85,7 +85,7 @@ filtered_df = df[
 ]
 
 # --- MAIN DASHBOARD LAYOUT ---
-st.title("🚀 InnovateGear Operations Hub")
+st.title("🚀 Operations Hub")
 st.markdown("### The 'Spreadsheet Killer' Demo")
 st.markdown("""
 Welcome to your new command center. No more wrestling with spreadsheets!
