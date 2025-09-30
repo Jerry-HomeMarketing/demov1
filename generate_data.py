@@ -68,7 +68,7 @@ columns = [
 df = pd.DataFrame(data, columns=columns)
 
 # Save the file
-file_path = "innovategear_sales_data.csv"
+file_path = "data/innovategear_sales_data.csv"
 df.to_csv(file_path, index=False)
 
 print(f"✅ Success! Data file '{file_path}' created with {len(df)} records.")
