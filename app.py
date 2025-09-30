@@ -31,7 +31,7 @@ def load_data(file_path):
     return data
 
 try:
-    df = load_data("innovategear_sales_data.csv")
+    df = load_data("data/innovategear_sales_data.csv")
 except FileNotFoundError:
     st.error("Data file not found. Please ensure 'innovategear_sales_data.csv' is in the same folder as the app.")
     st.stop()
