@@ -124,7 +124,8 @@ with col1:
         # Find months where spending was above the threshold
         anomalous_months = row[row > threshold]
         for month, amount in anomalous_months.items():
-            anomalies.append(f"High spending of **${amount:,.2f}** in **{category}** for month **{month}** (Threshold: ${threshold:,.2f})")
+            # --- FIX: Moved the '$' outside of the bold markers ('**') ---
+            anomalies.append(f"High spending of $**{amount:,.2f}** in **{category}** for month **{month}** (Threshold: $**{threshold:,.2f}**)")
     
     fig_heatmap = px.imshow(
         expense_pivot,
@@ -176,9 +177,9 @@ is_profitable = net_profit > 0
 cash_flow_trend = "improving" if monthly_summary['CashFlow'].iloc[-1] > monthly_summary['CashFlow'].iloc[-2] else "declining"
 top_income_stream = profit_by_cat.sort_values('Amount', ascending=False).iloc[0]['Category']
 
-# Generate the summary paragraph
+# --- FIX: Moved all '$' signs outside of the bold markers ('**') in the f-string ---
 summary_text = f"""
-Over the past 24 months, your business has generated **${total_income:,.2f}** in total income against **${total_expense:,.2f}** in total expenses, resulting in a net profit of **${net_profit:,.2f}**. 
+Over the past 24 months, your business has generated $**{total_income:,.2f}** in total income against $**{total_expense:,.2f}** in total expenses, resulting in a net profit of $**{net_profit:,.2f}**. 
 Your primary income driver has been **{top_income_stream}**. 
 
 The recent cash flow trend is currently **{cash_flow_trend}**. 
@@ -189,7 +190,7 @@ else:
     summary_text += "The AI has not detected any significant spending anomalies in your historical data. "
 
 summary_text += f"""
-Based on your 'What-If' scenario of **{sales_growth_rate*100:.1f}% monthly sales growth** and **${new_monthly_expense:,.2f} in new expenses**, the forecast indicates your cash flow will trend {'upwards' if forecast_df['CashFlow'].iloc[-1] > forecast_df['CashFlow'].iloc[0] else 'downwards'} over the next year.
+Based on your 'What-If' scenario of **{sales_growth_rate*100:.1f}% monthly sales growth** and $**{new_monthly_expense:,.2f}** in new expenses, the forecast indicates your cash flow will trend {'upwards' if forecast_df['CashFlow'].iloc[-1] > forecast_df['CashFlow'].iloc[0] else 'downwards'} over the next year.
 """
 
 st.info(summary_text)
