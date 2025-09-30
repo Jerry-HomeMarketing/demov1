@@ -75,3 +75,18 @@ div[data-testid="stPlotlyChart"], div[data-testid="stDataFrame"] {
 [data-testid="stMultiSelect"] [data-baseweb="tag"] svg {
     fill: #2E2E2E !important;
 }
+
+/* --- FIX for Unwanted Divider Styling --- */
+/* This specifically targets the divider element and overrides broad styles */
+div[data-testid="stDivider"] {
+    padding: 0 !important;
+    margin: 1rem 0 !important; /* Add some vertical space */
+    border: none !important;
+    background: none !important;
+    box-shadow: none !important;
+}
+
+div[data-testid="stDivider"] > hr {
+    border-top: 1px solid #4A4A4A !important; /* Make it a thin line */
+    height: 1px !important;
+}
