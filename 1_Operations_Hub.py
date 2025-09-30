@@ -74,14 +74,13 @@ st.markdown('</div>', unsafe_allow_html=True)
 
 # --- Geo & Data Section ---
 st.markdown('<div class="card">', unsafe_allow_html=True)
+st.subheader("Geographical Performance & Raw Data")
 col1, col2 = st.columns(2)
 with col1:
-    st.subheader("Geographical Sales Performance")
     sales_by_state = filtered_df.groupby('State')['TotalRevenue'].sum().reset_index()
     fig_map = px.choropleth(sales_by_state, locations='State', locationmode='USA-states', color='TotalRevenue', scope='usa', color_continuous_scale="Teal", template="plotly_dark")
     fig_map.update_layout(geo=dict(bgcolor='rgba(0,0,0,0)'), paper_bgcolor='rgba(0,0,0,0)')
     st.plotly_chart(fig_map, use_container_width=True)
 with col2:
-    st.subheader("Drill-Down Raw Data")
     st.dataframe(filtered_df, use_container_width=True, height=450, hide_index=True, column_config={"OrderDate": st.column_config.DateColumn(format="YYYY-MM-DD"), "Price": st.column_config.NumberColumn(format="$%.2f"),"TotalRevenue": st.column_config.NumberColumn(format="$%.2f")})
 st.markdown('</div>', unsafe_allow_html=True)
